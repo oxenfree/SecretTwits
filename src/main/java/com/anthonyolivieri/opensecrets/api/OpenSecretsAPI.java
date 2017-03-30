@@ -1,4 +1,4 @@
-package com.anthonyolivieri.opensecrets.API;
+package com.anthonyolivieri.opensecrets.api;
 
 import com.anthonyolivieri.opensecrets.Example;
 import com.anthonyolivieri.opensecrets.services.PropertiesService;

@@ -1,6 +1,6 @@
 package com.anthonyolivieri.opensecrets;
 
-import com.anthonyolivieri.opensecrets.API.OpenSecretsAPI;
+import com.anthonyolivieri.opensecrets.api.OpenSecretsAPI;
 import java.util.ArrayList;
 import java.util.List;
 import org.json.JSONObject;
