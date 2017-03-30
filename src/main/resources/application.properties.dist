@@ -1,0 +1,15 @@
+# This file is a "template" of what your application.properties file should look like.
+# Change the APIKey to the actual key you get from www.opensecrets.org.
+# Change the CandIndCycles and MemPFDYyears to whatever the latest cycles are available 
+# from www.opensecrets.org. As of 2017, the cycles are 2012,2014,2016 (no spaces). 
+# This will change in 2018. The User Agent is there because www.opensecrets.com won't
+# accept incoming API calls from software which is not a browser. 
+# If you get a "403" code (Forbidden) from opensecrets change the User Agent to reflect
+# a modern web browser. In 2017, the string provided below is a Google Chrome user agent.
+
+APIKey=yourAPIKeyFromOpenSecrets
+CandIndCycles=2012,2014,2016
+MemPFDYears=2013,2014
+CongressNumbers=112,113,114
+UserAgent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+RootURL=http://www.opensecrets.org/api/?output=json
