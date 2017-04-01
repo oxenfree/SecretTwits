@@ -6,6 +6,8 @@
 # accept incoming API calls from software which is not a browser. 
 # If you get a "403" code (Forbidden) from opensecrets change the User Agent to reflect
 # a modern web browser. In 2017, the string provided below is a Google Chrome user agent.
+# When you've done all that, rename this file "application.properties" (drop the ".dist")
+# and you're off to the races. 
 
 APIKey=yourAPIKeyFromOpenSecrets
 CandIndCycles=2012,2014,2016
