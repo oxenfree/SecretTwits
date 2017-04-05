@@ -1,6 +1,6 @@
-package com.anthonyolivieri.opensecrets;
+package com.anthonyolivieri.secrettwits;
 
-import com.anthonyolivieri.opensecrets.api.OpenSecretsAPI;
+import com.anthonyolivieri.secrettwits.api.OpenSecretsAPI;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;

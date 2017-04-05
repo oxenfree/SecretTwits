@@ -1,6 +1,6 @@
-package com.anthonyolivieri.opensecrets;
+package com.anthonyolivieri.secrettwits;
 
-import com.anthonyolivieri.opensecrets.services.PropertiesService;
+import com.anthonyolivieri.secrettwits.services.PropertiesService;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import twitter4j.Twitter;

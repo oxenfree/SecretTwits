@@ -1,7 +1,7 @@
-package com.anthonyolivieri.opensecrets;
+package com.anthonyolivieri.secrettwits;
 
-import com.anthonyolivieri.opensecrets.services.APIService;
-import com.anthonyolivieri.opensecrets.api.OpenSecretsAPI;
+import com.anthonyolivieri.secrettwits.services.APIService;
+import com.anthonyolivieri.secrettwits.api.OpenSecretsAPI;
 import java.io.IOException;
 import java.util.Map;
 import java.util.logging.Level;

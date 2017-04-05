@@ -1,4 +1,4 @@
-package com.anthonyolivieri.opensecrets.services;
+package com.anthonyolivieri.secrettwits.services;
 
 import java.io.File;
 import java.io.FileNotFoundException;

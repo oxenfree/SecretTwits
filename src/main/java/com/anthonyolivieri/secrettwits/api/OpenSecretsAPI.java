@@ -1,7 +1,7 @@
-package com.anthonyolivieri.opensecrets.api;
+package com.anthonyolivieri.secrettwits.api;
 
-import com.anthonyolivieri.opensecrets.Example;
-import com.anthonyolivieri.opensecrets.services.PropertiesService;
+import com.anthonyolivieri.secrettwits.Example;
+import com.anthonyolivieri.secrettwits.services.PropertiesService;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;

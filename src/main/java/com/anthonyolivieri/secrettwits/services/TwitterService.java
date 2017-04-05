@@ -1,6 +1,5 @@
-package com.anthonyolivieri.opensecrets.services;
+package com.anthonyolivieri.secrettwits.services;
 
-import com.anthonyolivieri.opensecrets.TwitterExample;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -41,7 +40,7 @@ public class TwitterService {
             System.out.println(update.getText());
 
         } catch (TwitterException ex) {
-            Logger.getLogger(TwitterExample.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(TwitterService.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 }

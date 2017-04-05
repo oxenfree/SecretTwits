@@ -1,6 +1,6 @@
-package com.anthonyolivieri.opensecrets.services;
+package com.anthonyolivieri.secrettwits.services;
 
-import com.anthonyolivieri.opensecrets.MoreExamples;
+import com.anthonyolivieri.secrettwits.MoreExamples;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics2D;
