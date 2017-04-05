@@ -1,6 +1,7 @@
 package com.anthonyolivieri.opensecrets;
 
 import com.anthonyolivieri.opensecrets.api.OpenSecretsAPI;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import org.json.JSONObject;
@@ -11,7 +12,7 @@ public class Example {
      *
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
         String candidateId = "N00007360"; //Nancy Pelosi(D CA-12th)
         String cycle = "2014"; //Check application.properties for "cycle" and "year" explanations
@@ -145,8 +146,8 @@ public class Example {
         /**
          * Here comes a wealth of information!
          */
-        for (JSONObject json: jsonList) {
+        jsonList.forEach((json) -> {
             System.out.println(json.toString(4)); // 4 indents the resulting string to make it readable.
-        }
+        });
     }
 }

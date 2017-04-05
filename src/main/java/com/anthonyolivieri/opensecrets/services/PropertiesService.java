@@ -42,6 +42,7 @@ public class PropertiesService {
         this.output = new FileOutputStream(filePath);
         try {
             this.prop.load(input);
+            
         } catch (IOException ex) {
             Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -49,11 +50,11 @@ public class PropertiesService {
 
     /**
      * @param propertyName
-     * 
+     *
      * @return String
      */
     public String getProperty(String propertyName) {
-        
+
         return prop.getProperty(propertyName);
     }
 
