@@ -1,0 +1,4396 @@
+N00036633::Abraham, Ralph
+N00039682::Accavitti, Frank Jr
+N00037014::Achadjian, Katcho
+N00035451::Adams, Alma
+N00036990::Adams, Boyce
+N00037273::Adams, David
+N00037274::Adams, Desmund
+N00027843::Adams, Eddie
+N00032432::Adams, John
+N00039496::Adams, Scott
+N00036926::Adcock, Sam
+N00003028::Aderholt, Robert B
+N00039680::Adkins, Alex
+N00033165::Agbede, Akinyemi
+N00039294::Agra, John
+N00033997::Aguilar, Pete
+N00037402::Alam, MD
+N00039383::Alarcon, Richard
+N00038843::Albarran, Charlene
+N00039147::Albertson, Ed
+N00036917::Albertson, Stewart
+N00038776::Allan, Seth
+N00032277::Allen, Jason
+N00033720::Allen, Richard W
+N00039082::Allvord, Terry
+N00031938::Amash, Justin
+N00031177::Amodei, Mark
+N00039258::Anders, Sam
+N00038203::Anderson, Dave
+N00038571::Anderson, Phil
+N00037163::Anderson, Stephanie
+N00038605::Andres, Teresita
+N00039398::Angelle, Scott
+N00027581::Angle, Sharron
+N00038806::Ansel, Jeff
+N00039301::Anthanasopoulos, George
+N00038621::Anthony, Malcolm
+N00038599::Appleby, Alex
+N00037263::Applegate, Douglas L
+N00039709::Arberry, Morse Jr
+N00039392::Armedariz, Victor
+N00038594::Armstrong-Stoner, Derek James
+N00036141::Arness, Mark
+N00038285::Arrington, Jodey
+N00036932::Ash, James
+N00005697::Ashby, Ken
+N00005293::Ashford, Brad
+N00036354::Ashworth, Matthew
+N00038654::Assini, Mark W
+N00031491::Atanus, Susanne
+N00039426::Atkins, Ken
+N00037020::Atkinson, Jacquie
+N00030980::Ayotte, Kelly
+N00036877::Azumah, Joel
+N00033731::Babeu, Paul
+N00005736::Babin, Brian
+N00039414::Babinec, Martin
+N00007089::Baca, Joe
+N00039657::Bacallao, Mary Kay
+N00037049::Bacon, Donald John
+N00039568::Baez, Leonel Mr.
+N00036336::Bakari, Kamau
+N00038660::Baker, Bruce
+N00037618::Baker, Collin
+N00039545::Baker, Jeffrey Ronald
+N00039699::Baker, Lou
+N00037598::Baker, Terry
+N00039476::Balcallao, Mary Kay
+N00036368::Balchunis, Mary Ellen
+N00037452::Baldacci, Joe
+N00035112::Ballard, Scott J
+N00037303::Bangstad, Kirk
+N00037185::Banks, Jim
+N00007182::Banuelos, Robert
+N00039493::Barajas, Ramon III
+N00037608::Bard, Gavin
+N00037030::Baricevic, Charles John
+N00033200::Barkley, Mike
+N00039473::Barksdale, Jim
+N00025495::Barletta, Lou
+N00039578::Barnes, Rudy Jr
+N00038619::Barney, Sean
+N00031233::Barr, Andy
+N00037019::Barragan, Nanette
+N00038828::Barrera, Roy
+N00039540::Barrett, Dan
+N00037265::Barringer, Adam
+N00037454::Bartley, Lori
+N00005656::Barton, Joe
+N00001883::Barve, Kumar P
+N00039092::Barz, Michael
+N00038671::Basham, Danny
+N00031877::Bass, Karen
+N00037160::Batsche, Christopher
+N00039684::Batsche, Christopher
+N00038259::Batts, Jason
+N00038687::Baucum, Trey
+N00038659::Baugh, Scott
+N00039586::Bault, David
+N00038277::Beagle, Bill
+N00038245::Bean, Rowan
+N00033904::Beatty, Joyce
+N00009774::Becerra, Xavier
+N00036936::Beck, Kristin
+N00032702::Becker, Francis X Jr
+N00037624::Becker, Julie
+N00038849::Bedell, Eileen McNeil
+N00034073::Bedwell, Danny
+N00038827::Beebe, Micah
+N00039311::Beechwood, Eric
+N00036211::Beers, Bob
+N00039108::Beers, Matt
+N00039377::Begay, Carlyle
+N00038780::Beiler, Chet
+N00038559::Beitiks, Mikelis
+N00038795::Bell, Adam
+N00038636::Bell, Doug
+N00039651::Bello, Axel
+N00037497::Benedict, Lee
+N00031934::Benishek, Dan
+N00030608::Bennet, Michael F
+N00037514::Bennett, Ken
+N00038853::Bennett, LuAnn
+N00038782::Bennett, Rob
+N00037026::Bensmihen, Joseph
+N00038696::Benson-Staebler, David
+N00030717::Bera, Ami
+N00039533::Bergman, John
+N00037017::Bernal, Benny
+N00010946::Berns, Jim
+N00039309::Berry, Paul III
+N00039524::Bertrand, Rick
+N00039372::Beruff, Carlos
+N00036018::Beyer, Don
+N00039293::Biggs, Andy
+N00027462::Bilirakis, Gus
+N00035718::Bircher, Mark
+N00038445::Bishop, Bob
+N00039071::Bishop, Christopher Andrew
+N00036449::Bishop, Mike
+N00025292::Bishop, Rob
+N00002674::Bishop, Sanford
+N00039577::Bjorn, Arik
+N00031539::Black, Diane
+N00030082::Black, Phil
+N00003105::Blackburn, Marsha
+N00039045::Blaha, Robert
+N00035971::Blair, Paul
+N00009683::Blakley, Will
+N00037534::Blatt, Doug
+N00039665::Bledsoe, William
+N00033744::Blum, Rod
+N00007727::Blumenauer, Earl
+N00031685::Blumenthal, Richard
+N00005981::Blunt, Jeffrey
+N00005195::Blunt, Roy
+N00039547::Blust, John
+N00026756::Bly, Ray
+N00038668::Boccarossa, Jack
+N00003675::Boehner, John
+N00039582::Bohms, Alan
+N00031805::Boler, Mark
+N00033524::Bolling, Dan
+N00033474::Bonamici, Suzanne
+N00039164::Bonar, Troy
+N00035577::Bonner, Jay Alan
+N00033714::Boone, Dan
+N00013873::Boozman, John
+N00024866::Bordallo, Madeleine Z
+N00038418::Borders, Jason D
+N00035420::Bost, Mike
+N00038708::Bouie, John II
+N00026595::Boustany, Charles Jr
+N00036594::Bowers, Kerry Dale
+N00039031::Bowman, Marcus
+N00031440::Boyd, Will
+N00038440::Boylan, Patrick
+N00035307::Boyle, Brendan
+N00039083::Bradell, Kyle
+N00038805::Bradshaw, Bill
+N00005883::Brady, Kevin
+N00001619::Brady, Robert A
+N00037262::Brandman, Jordan
+N00035371::Brannon, Greg
+N00036302::Brannon, Josh
+N00036013::Brat, Dave
+N00038677::Bratcher, Harold
+N00036898::Breu, Tom
+N00039688::Brewington, Elton R.
+N00033532::Bridenstine, James
+N00038682::Brill, Roger Q
+N00029524::Broadus, Robert
+N00039402::Brock, Andrew
+N00039329::Brockmoller, Jennifer
+N00039048::Bronson, Daniel J
+N00039497::Bronson, Gordon
+N00039501::Brookes, Ann
+N00038640::Brookins, Howard Jr
+N00034126::Brooks, Janis C
+N00030910::Brooks, Mo
+N00033495::Brooks, Susan
+N00028986::Broun, Paul
+N00038202::Brown, Anitra
+N00036999::Brown, Anthony
+N00002713::Brown, Corrine
+N00037429::Brown, James P
+N00037186::Brown, Liz
+N00037254::Brown, Paul
+N00037612::Brown, Sakima
+N00039713::Brown, Shaun
+N00034590::Brown, Steve
+N00039093::Brown, Willie
+N00034254::Brownley, Julia
+N00038602::Bruner, Matthew
+N00035231::Brutus, Otto Patrick
+N00038791::Bryan, Pat
+N00037601::Bryant, Jamal Harrison
+N00038725::Bryson, Rick
+N00027626::Buchanan, Vernon
+N00038860::Buchholz, Myron
+N00030829::Buck, Kenneth R
+N00039113::Buck, Rob
+N00026751::Buckley, Allen
+N00031227::Bucshon, Larry
+N00039551::Budd, Ted
+N00038256::Bullwinkel, Deb
+N00038852::Bunch, Bill
+N00039175::Bupp, Mitchell Preston
+N00039417::Burgess, Jonathan
+N00025219::Burgess, Michael
+N00036941::Burk, John
+N00038680::Burk, John Jr
+N00039321::Burkholder, Joshua
+N00002221::Burr, Richard
+N00034523::Burris, Michael
+N00039257::Busch, Mark
+N00039373::Bush, Cori
+N00037006::Bush, Jeb
+N00033390::Bustos, Cheri
+N00027035::Butterfield, G K
+N00039679::Bydlak, Rebekah Johansen
+N00035380::Byrne, Bradley
+N00034726::Cadien, Tawana W
+N00033505::Caffrey, Andy
+N00038607::Caforio, Bryan
+N00037057::Cage, Ericke
+N00035433::Cain, Emily
+N00033255::Callahan, Mark
+N00037052::Calone, David L
+N00007099::Calvert, Ken
+N00039305::Camacho, Felix
+N00039478::Campbell, Foster
+N00013089::Campbell, Mike
+N00033999::Campos, Benjamin
+N00039382::Campos, Louie
+N00038411::Canada, Mike
+N00035515::Cannon, Jerry
+N00038436::Cano, Christian
+N00038633::Canova, Tim
+N00030339::Cao, Joseph
+N00000267::Capuano, Michael E
+N00033544::Caraway, Barbara Mallory
+N00037015::Carbajal, Salud
+N00039490::Cardenas, Angel
+N00033373::Cardenas, Tony
+N00038844::Cardwell, Pat
+N00034135::Cargas, James
+N00039700::Carlisle, Stephanie
+N00039427::Carlton, Todd
+N00037623::Carnahan, Weldon
+N00030736::Carney, John
+N00038600::Caro, Suzanne
+N00036120::Carpenter, Douglas
+N00032063::Carpenter, Sam
+N00007498::Carroll, Jerry Leon
+N00037264::Carroll, Morgan
+N00029513::Carson, Andre
+N00036973::Carson, Ben
+N00035346::Carter, Buddy
+N00039656::Carter, Dan
+N00031188::Carter, Jerry Dean
+N00025095::Carter, John
+N00034128::Cartwright, Matt
+N00039151::Casacio, Stanley
+N00034735::Casey, Keith
+N00036310::Casteen, J Wesley
+N00037252::Castillo, Christopher
+N00039562::Castillo, Hector
+N00027514::Castor, Kathy
+N00038273::Castricone, Dan
+N00033316::Castro, Joaquin
+N00039707::Casutt, Brandon
+N00039531::Cataldo, Chris
+N00039542::Caudill, James Williams
+N00038676::Caughey, Miles
+N00036102::Chabot, Paul
+N00003689::Chabot, Steve
+N00037300::Chadwick, Bruce
+N00009954::Chafee, Lincoln
+N00036537::Chaffee, Chris
+N00028958::Chaffetz, Jason
+N00037271::Chane, Jonathan
+N00038268::Chappelle-Nadal, Maria
+N00035807::Chavez, Cesar
+N00036918::Chavez, Rocky
+N00038424::Chelgren, Mark
+N00035504::Cheney, Liz
+N00036937::Cheng, Xiangfei "Scott"
+N00032057::Chicon, Martin
+N00032160::Chiu, David Yu-Lin
+N00033246::Choi, Jun
+N00038702::Christensen, Gordon
+N00038864::Christensen, Leland
+N00037008::Christie, Chris
+N00035603::Christopher, Warren
+N00030600::Chu, Judy
+N00032019::Cicilline, David
+N00025785::Cino, Michael
+N00039115::Clark, Kamesha T
+N00035278::Clark, Katherine
+N00038836::Clark, Mike
+N00038739::Clarke, Jonathan
+N00026961::Clarke, Yvette D
+N00035854::Clawson, Curt
+N00012460::Clay, William L Jr
+N00025105::Claytor, Chris
+N00026790::Cleaver, Emanuel
+N00037011::Cleek, N Eugene
+N00035306::Clemens, Peter
+N00036373::Cleveland, Hosea
+N00038705::Clever, Paul
+N00000019::Clinton, Hillary
+N00002408::Clyburn, James E
+N00035426::Coblenz, Michael
+N00024753::Coffman, Mike
+N00038408::Cohen, Ron
+N00003225::Cohen, Steve
+N00038717::Coker, Adam
+N00036221::Cole, Dave
+N00035136::Cole, Michael
+N00025726::Cole, Tom
+N00036158::Coleman, Bonnie
+N00030827::Coleman, Curtis
+N00038669::Coleman, Lynn
+N00001285::Collins, Chris
+N00033518::Collins, Doug
+N00035723::Collins, Hayden
+N00036997::Collins, Nancy
+N00035978::Colliver, Ed
+N00038260::Comer, James
+N00036023::Comstock, Barbara
+N00026041::Conaway, Mike
+N00033520::Concepcion, Hector L
+N00025431::Condit, Jim Jr
+N00035348::Condley, Kerri
+N00029941::Conlon, Greg
+N00029891::Connolly, Gerry
+N00036180::Connolly, Matt
+N00039225::Connor, Sean
+N00037499::Connors, Thomas
+N00004029::Conyers, John Jr
+N00038763::Coogan, Bob
+N00034224::Cook, Paul
+N00037287::Cook, Suzan Johnson
+N00039390::Cook, Tamarkus
+N00038272::Cook, York
+N00038716::Cooke, C L
+N00003132::Cooper, Jim
+N00038618::Cope, Clay
+N00039474::Copeland, Cheryl
+N00038678::Corely, Everett
+N00039500::Corey, Matthew Mckinnon
+N00038287::Corley, Jason
+N00038460::Cornelius, Bob
+N00039375::Cornell, Phil
+N00038793::Cornette, Dave
+N00037260::Correa, Lou
+N00035994::Corvalan, Ruben
+N00026341::Costa, Jim
+N00038661::Costello, Fred
+N00031064::Costello, Ryan
+N00039401::Cotham, Tricia
+N00037520::Counsil, Gordon Joe
+N00024842::Courtney, Joe
+N00039102::Covington, Rachel
+N00039521::Cowan, Daniel
+N00039537::Cowell, Dave
+N00039124::Cox, Dan
+N00028137::Coyne, John
+N00031142::Cozad, David
+N00036906::Crabtree, Valleri
+N00038576::Craig, Andy
+N00037039::Craig, Angie
+N00039711::Craig, Ray
+N00004614::Cramer, Kevin
+N00035868::Cramer, Robert
+N00031893::Crane, Mike
+N00006267::Crapo, Mike
+N00039419::Crary, Jim
+N00030770::Crawford, Rick
+N00012739::Crenshaw, Ander 
+N00002942::Crist, Charlie
+N00001127::Crowley, Joseph
+N00039234::Croydon, Elizabeth
+N00037156::Crumpton, Ron
+N00033085::Cruz, Ted
+N00024978::Cuellar, Henry
+N00009738::Culberson, John
+N00036181::Culler, Anthony
+N00037028::Cullerton, Tom
+N00001971::Cummings, Elijah E
+N00036692::Cummings, Ted
+N00039546::Cunningham, Carla
+N00035403::Curbelo, Carlos
+N00037579::Curran, Pattie
+N00037581::Curry, Dianne
+N00031118::D'Annunzio, Tim
+N00039570::D'Orazio, Tony
+N00039564::D'Silva, Reuben
+N00036549::Daggett, Doug
+N00035563::Dagnesses, Rafael
+N00039431::Dahlke, Jeffery J
+N00038269::Daly, Kay
+N00039154::Darr, Joshua
+N00033827::Daugherty, Rick
+N00039143::Davenport, Michael D.
+N00035880::Davidson, Allen
+N00038767::Davidson, Warren
+N00036947::Davies, Aaron
+N00039520::Davis, Billy
+N00035911::Davis, Bruce
+N00039683::Davis, Cynthia
+N00039235::Davis, D'Nese
+N00004884::Davis, Danny K
+N00037187::Davis, Dereck
+N00034784::Davis, Rodney
+N00009604::Davis, Susan A
+N00037275::Day, Thomas
+N00038274::Deacon, Colleen
+N00005930::Dean, Andre
+N00039086::DeCailly, Paul
+N00037299::Deeb, Gregory
+N00007781::DeFazio, Peter
+N00006134::DeGette, Diana
+N00037231::Del Beccaro, Tom
+N00038845::Del Rosso, Michael
+N00034589::Del Vecchio, Kenneth
+N00033897::Delaney, John K
+N00000615::DeLauro, Rosa L
+N00030693::DelBene, Suzan
+N00039561::Delgado, Eloy
+N00034210::Demare, Joe
+N00037596::Demaree, Angela
+N00038713::Deming, Robert
+N00033449::Demings, Val
+N00031593::Denham, Jeff
+N00037293::Denham, Joe
+N00003534::Dennerll, Norbert G Jr
+N00026171::Dent, Charlie
+N00038280::Derickson, Tim
+N00038247::Derlet, Robert
+N00037406::Derrick, Mike
+N00034746::DeSantis, Ron
+N00030709::Desaulnier, Mark
+N00030957::Desjarlais, Scott
+N00038862::Detch, Matt
+N00039296::Detert, Ryan
+N00036934::Detzel, Denis
+N00038254::Deuser, August
+N00031317::Deutch, Ted
+N00035064::DeVore, Bob Jr
+N00039685::Dew, H Powell
+N00039160::Deweese, Calvin
+N00035121::Diaz, Antonio
+N00025337::Diaz-Balart, Mario
+N00038406::DiChihara, Larry
+N00038255::Dicianni, Peter
+N00038198::Dickerson, John Martin
+N00038464::Dickinson, Mike
+N00039224::Dickson, Freddie
+N00036149::Dingell, Debbie
+N00037621::Dittmar, Jane
+N00039664::Dixon, Thomas
+N00006023::Doggett, Lloyd
+N00031103::Dold, Bob
+N00035401::Domino, Carl
+N00039380::Donnelly, Tim
+N00036928::Donovan, Dan
+N00039231::Dorsey, Greg
+N00039508::Dosev, Cris
+N00033568::Douglas, Richard
+N00001373::Doyle, Mike
+N00038645::Drabik, Gerald "Jerry"
+N00039101::Drake, Ron
+N00036938::Driskell, Gretchen
+N00027860::Duckworth, Tammy
+N00038726::Duffie, Ryan
+N00030967::Duffy, Sean P
+N00030752::Duncan, Jeff
+N00037165::Duncan, Jim
+N00003209::Duncan, John J Jr
+N00037516::Dunn, Joseph
+N00037442::Dunn, Neal
+N00038777::Duome, Marc
+N00030273::Eckhart, Don
+N00036508::Edwards, Adrienne
+N00039290::Edwards, Derrick
+N00028249::Edwards, Donna
+N00035313::Eggman, Michael
+N00036920::Ehler, Charles
+N00038441::Eisenbach, David
+N00038194::Eldridge, Conner
+N00038810::Elizondo, Dolly
+N00036527::Ellison, Allen
+N00038684::Ellison, Greg
+N00028257::Ellison, Keith
+N00031513::Ellmers, Renee
+N00037234::Emanuele, James
+N00037404::Emery, Ed
+N00035440::Emmer, Tom
+N00001003::Engel, Eliot L
+N00037592::Enyia, Amara
+N00037282::Ervin, Valerie
+N00007335::Eshoo, Anna
+N00034549::Espaillat, Adriano
+N00038800::Espinoza, Maria
+N00009226::Estrada, John
+N00033217::Esty, Elizabeth
+N00038731::Evans, Chip
+N00038450::Evans, Dwight
+N00006700::Evans, Mervin
+N00033521::Evans, Richard
+N00039265::Evans, Robert Anthony Jr
+N00039255::Evans, Robert S
+N00030359::Everhart, John
+N00039676::Evers, Greg
+N00039112::Eze, Nnabu
+N00037449::Faddis, Sam
+N00038420::Fahmy, Fatima Rita
+N00039589::Fairbanks, Chadwick III
+N00035705::Fareed, Justin
+N00031672::Farenthold, Blake
+N00007312::Farr, Sam
+N00039096::Farrar, Ryan
+N00037288::Faso, John
+N00001746::Fattah, Chaka
+N00039222::Fayard, Caroline
+N00039550::Feather, Kathleen
+N00038787::Fedalei, Chris
+N00038760::Feerer, Donald
+N00039088::Feigenbaum, Marty
+N00000036::Feingold, Russ
+N00004663::Fellows, Mike
+N00039090::Ferguson, Drew
+N00039692::Ferguson, Mazie
+N00038783::Ferrer, Hector
+N00038201::Fetterman, John
+N00001862::Ficker, Robin
+N00031167::Fiegen, Tom
+N00038792::Filak, Michael
+N00031141::Fincher, Steve
+N00032335::Fiore, Michele
+N00031348::Fiorina, Carly
+N00039299::Fischella, Tyler R
+N00038817::Fisher, Sharon
+N00038779::Fitzpatrick, Brian
+N00034317::Fitzpatrick, Roger
+N00039408::Flanagan, Jack
+N00030815::Fleischmann, Chuck
+N00029679::Fleming, John
+N00031656::Flinn, George S Jr
+N00031545::Flores, Bill
+N00037190::Flores, Lucy
+N00037412::Flowers, Margaret
+N00036989::Flynn, Michael
+N00037164::Flynn, Mike
+N00038609::Flynn, Sean
+N00039116::Fogg, Matthew
+N00038766::Foister, Corey
+N00038649::Folkner, Sadona M
+N00037295::Follweiler, Archie
+N00025345::Fonua, Stoney
+N00013799::Forbes, Randy
+N00038789::Forest, Dylan
+N00039263::Forlini, Anthony
+N00026631::Fortenberry, Jeff
+N00029139::Foster, Bill
+N00037297::Fowler, Steven
+N00038613::Fox, Randy
+N00039525::Fox, Shizandra
+N00039512::Foxx, David
+N00026166::Foxx, Virginia
+N00002893::Frankel, Lois J
+N00006423::Franks, Trent
+N00035625::Fraser, Aaron
+N00031381::Fraser, William
+N00039388::Frazier, Brian Wayne
+N00030759::Frazier, Ryan
+N00035223::Freeman, April
+N00037408::Freeman, Mark
+N00000684::Frelinghuysen, Rodney
+N00026344::Fritz, Jim
+N00030490::Fudge, Marcia L
+N00033281::Gabbard, Tulsi
+N00039503::Gaetz, Matt
+N00039579::Gaither, Larry
+N00033934::Galdo, Joseph F
+N00037166::Gallagher, Mike
+N00039330::Gallagher, Mike
+N00038804::Gallaher, Scot
+N00033541::Gallego, Pete
+N00036097::Gallego, Ruben
+N00039126::Galloway, Charles
+N00037588::Galloway, GG
+N00037184::Galloway, Pam
+N00035324::Gamble, Venice Jaymes II
+N00035624::Gandolfo, Angela Marie
+N00039694::Gant, Chad
+N00030856::Garamendi, John
+N00038832::Garcia, Adrian
+N00038831::Garcia, Dominique
+N00038456::Garrett, Greg
+N00036353::Garrett, Janet
+N00000743::Garrett, Scott
+N00038847::Garrett, Tom
+N00038786::Garves, Ben
+N00038833::Garza, Julio
+N00039669::Gaskill, William R.
+N00036716::Gaskins, Samuel Lewis
+N00039505::Gazlay, Rich
+N00037614::Geissinger, Glenn
+N00037000::Gentile, Vinnie
+N00038278::George, Scott
+N00038244::Gerritson, Becky
+N00034896::Gerson, David
+N00039105::Geymann, Brett
+N00031128::Gibbs, Bob
+N00038658::Gibson, Charlotte
+N00036084::Gibson, Mark
+N00038283::Gigliotti, Lou
+N00039035::Gilbert, Frank
+N00037524::Gilbert, Melissa
+N00039412::Gilder, Lawrence
+N00038195::Gildersleeve, Tim
+N00036982::Giles, Dave
+N00038710::Giles, Jimmy
+N00026221::Gill, David
+N00028961::Gilmore, Jim
+N00038258::Giroux, Dan
+N00038412::Gitsham, Denise
+N00038714::Gladney Mark
+N00037309::Gladstone, Steve
+N00036919::Glenn, Darryl
+N00038270::Glidewell, Pete
+N00034065::Gluck, George
+N00036129::Godfrey, Curtis
+N00038560::Godwin, Mary Elisabeth
+N00036137::Goff, Jonathan
+N00026148::Gohmert, Louis B Jr
+N00038451::Golderer, Bill
+N00039145::Goldstein, Beverly A.
+N00036950::Gonzales, Regino James
+N00038423::Gonzalez, Evelio
+N00039714::Gonzalez, Jackee Mrs.
+N00037615::Gonzalez, Jenniffer
+N00038840::Gonzalez, Rey Jr
+N00038703::Gonzalez, Travis
+N00038809::Gonzalez, Vicente
+N00009154::Goodlatte, Bob
+N00038434::Googe, Sue
+N00036342::Goossen, David
+N00031527::Gordon, Brian A
+N00038753::Gordon, Dave
+N00030771::Gosar, Paul
+N00036944::Gottheimer, Josh
+N00039057::Gould, James
+N00039162::Gourdoux, Mary L
+N00039300::Gouron, Max
+N00038407::Gowan, David
+N00030880::Gowdy, Trey
+N00038421::Grabelle, Justin
+N00037050::Gradert, Jamieson
+N00035688::Graham, Gwen
+N00039220::Graham, Jack
+N00035449::Graham, Malcolm
+N00036533::Grandanette, Joe
+N00008799::Granger, Kay
+N00036123::Grant, Kevin
+N00037407::Grant, Kevin Jay
+N00001758::Grassley, Chuck
+N00036135::Graves, Garret
+N00013323::Graves, Sam
+N00030788::Graves, Tom
+N00037259::Gray, Casey
+N00039052::Gray, Jim
+N00039153::Gray, Phil
+N00028418::Grayson, Alan
+N00035476::Grayson, Derrick
+N00002776::Grayson, Richard
+N00036140::Graziani, John
+N00026686::Green, Al
+N00005870::Green, Gene
+N00039039::Greene, Russell
+N00039183::Greene, Ryan
+N00039325::Greer, Brad
+N00037192::Gregory, DuWayne
+N00031977::Gregory, Jeff
+N00039038::Grey, Clive
+N00039269::Gribben, Wendy
+N00039597::Griego, Harry
+N00039575::Grier, Michael Jr
+N00038566::Griffin, Kevin
+N00035683::Griffin, Taylor
+N00032029::Griffith, Morgan
+N00025284::Grijalva, Raul M
+N00037447::Grimsley, Warren
+N00029400::Grisham, Michelle Lujan
+N00039073::Groen, Ross
+N00036409::Grothman, Glenn S
+N00032386::Guild, Tom
+N00038686::Guillory, Elbert
+N00030801::Guinta, Frank
+N00039067::Gumina, Tony
+N00037611::Gurfein, David
+N00029675::Guthrie, Brett
+N00037568::Guthrie, Sean
+N00004874::Gutierrez, Luis V
+N00037176::Gutzeit, Maria
+N00039494::Guzman, David
+N00038279::Haemmerle, Eric
+N00012485::Hagan, Bob
+N00038452::Haggerty, Edward
+N00039050::Hale, John David
+N00033277::Hall, Isadore
+N00038796::Hall, Ray
+N00039104::Hall, Robert
+N00035461::Halvorson, Art
+N00028141::Hamilton, Eddie
+N00030197::Hanna, Richard
+N00038646::Hantsch, Joseph J
+N00037591::Hardiman, Tio
+N00038435::Hardin, Chris
+N00038830::Hardin, Zeffen
+N00035628::Hardy, Cresent
+N00038667::Harlan, Patrick
+N00039077::Harlow, Bob
+N00029632::Harper, Gregg
+N00037194::Harrington, John IV
+N00029147::Harris, Andy
+N00028517::Harris, James
+N00036915::Harris, Kamala D
+N00035491::Harris, Mark
+N00035201::Harris, Napoleon
+N00029521::Harris, Thomas E
+N00037296::Hartman, Christina
+N00031005::Hartzler, Vicky
+N00027939::Hassan, Ahmad
+N00038397::Hassan, Maggie
+N00002884::Hastings, Alcee L
+N00039527::Haugen, Isaac
+N00039428::Hawks, Joel
+N00037530::Hawks, Paula
+N00035173::Hayes, Chris
+N00037528::Heaney, Andrew
+N00039312::Heard, Craig P.
+N00031557::Heck, Dennis
+N00031244::Heck, Joe
+N00039721::Heck, Thomas
+N00039109::Heine, Bill
+N00039407::Heineman, Lisa
+N00039418::Heinrich, Brian
+N00033979::Heinz, Matt
+N00038267::Helland, Bob
+N00036304::Henley, Gardenia
+N00039548::Henning, Hank
+N00024922::Hensarling, Jeb
+N00026505::Hermanson, Barry
+N00038610::Hernandez, Roger
+N00038850::Hernick, Charles
+N00031559::Herrera Beutler, Jaime
+N00032243::Hice, Jody B
+N00031478::Hicks, Angela
+N00038589::Hicks, Kerry
+N00038615::Hidalgo, Juan
+N00027060::Higgins, Brian M
+N00039689::Hight, Steven E.
+N00003875::Hill, Baron
+N00039155::Hill, Christopher
+N00035792::Hill, French
+N00037272::Hill, Randal
+N00036312::Hill, Tom
+N00029070::Himes, Jim
+N00039666::Hinkle, Jim
+N00006008::Hinojosa, Ruben
+N00038700::Hinson, Amanda Lynn
+N00039266::Hird, Diana
+N00039488::Hodges, Robert
+N00037451::Hoeber, Amie
+N00039120::Hoenig, Myles B
+N00031688::Hoeven, John
+N00039606::Hoffman, Ralph
+N00038396::Hogg, Rob
+N00039530::Hohe, Steve
+N00038692::Holbrook, Mark
+N00037159::Holcomb, Eric
+N00039681::Holden, Kip
+N00033399::Holding, George
+N00003754::Holland, George
+N00037044::Holliday, Ed
+N00038429::Hollingsworth, Trey
+N00038415::Holloway, Lashonda
+N00034227::Holmes, Greg
+N00039063::Homquist, Larry
+N00012611::Honda, Mike
+N00039061::Hooe, Joey
+N00039563::Horne, Fred
+N00038453::Horne, Jenny
+N00034596::Horne, Tom
+N00038616::Horst, John
+N00036091::Hosta, John
+N00037427::Houchin, Erin
+N00039051::Houlihan, Rory
+N00036914::House, Phillip
+N00037002::Howard, Albert
+N00037450::Howard, Frank
+N00039552::Howard, Julia
+N00038266::Howe, John
+N00039095::Howell, Kevin
+N00038644::Howland, Amanda
+N00001821::Hoyer, Steny H
+N00007539::Huckabee, Mike
+N00039663::Hudock, Brandon Gene
+N00033630::Hudson, Richard
+N00027649::Huelskamp, Tim
+N00038603::Huerta, Emilio
+N00033030::Huffman, Jared
+N00039308::Hughes, Dave
+N00030673::Huizenga, Bill
+N00031104::Hultgren, Randy
+N00009768::Hunt, Mark
+N00029258::Hunter, Duncan D
+N00031417::Hurd, Will
+N00039140::Hurley, Russ
+N00038718::Hurst, David
+N00031265::Hurt, Robert
+N00038788::Hyman, Mal
+N00005963::Idrogo, Michael
+N00037398::Invictus, Augustus Sol
+N00038690::Ireton, Jim
+N00039554::Iron Eyes, Chase
+N00039292::Isaacson, Steve
+N00002593::Isakson, Johnny
+N00036499::Isakson, Steve
+N00039693::Isner, Bob
+N00013345::Israel, Steve
+N00007017::Issa, Darrell
+N00033749::Ivey, Glenn
+N00031603::Izzo, Rose
+N00005818::Jackson Lee, Sheila
+N00038770::Jackson, Jarrin
+N00039107::Jackson, Sean
+N00038438::Jacob, Peter
+N00037182::Jacobson, Oren
+N00034192::Jaffe, Ralph
+N00025152::Jameson, Scott
+N00033660::Jaquess, Don
+N00037037::Jawando, Will
+N00038858::Jayapal, Pramila
+N00038596::Jefferson, Jrmar
+N00033640::Jeffries, Hakeem
+N00035531::Jenkins, Evan
+N00029077::Jenkins, Lynn
+N00039262::Jenkins, Oliver
+N00039429::Jhaveri, Arun
+N00026786::Jindal, Bobby
+N00038685::John, Rick
+N00030850::John, Rob
+N00032088::Johnson, Bill
+N00039099::Johnson, Chuck
+N00039141::Johnson, Daniel
+N00008122::Johnson, Eddie Bernice
+N00033226::Johnson, Gary
+N00027848::Johnson, Hank
+N00036081::Johnson, Johnny
+N00037283::Johnson, Lon
+N00039106::Johnson, Mike
+N00032546::Johnson, Ron
+N00008028::Johnson, Sam
+N00039543::Johnson, Todd
+N00039701::Johnston, Gary L
+N00035717::Jolly, David
+N00039091::Jones, Andrew
+N00004855::Jones, Art
+N00031580::Jones, James
+N00036457::Jones, Jeff
+N00039125::Jones, Jeffrey W
+N00035791::Jones, Lateresa
+N00039068::Jones, Rafael Arden Sr
+N00038597::Jones, Scott
+N00036992::Jones, Starner
+N00039066::Jones, Tom
+N00002299::Jones, Walter B Jr
+N00027894::Jordan, Jim
+N00035007::Joyce, David P
+N00039658::Judge, Patty
+N00038433::Juneau, Denise
+N00039302::Jusick, James
+N00038743::Kaiman, Jon
+N00039322::Kairnes, Jerry
+N00006887::Kalemkarian, Timothy Charles
+N00036922::Kander, Jason
+N00038738::Kaplan, Anna
+N00003522::Kaptur, Marcy
+N00009778::Kasich, John
+N00039111::Kasprzak, Kristin
+N00039415::Kastenbaum, Diana
+N00035934::Katko, John
+N00033516::Kaufman, Joe
+N00039177::Kay, David
+N00039559::Keady, Jim
+N00038611::Kealy, Dwight
+N00031933::Keating, Bill
+N00038823::Keenen, Lee
+N00037401::Kefalas, Chrys
+N00037289::Kehoe, John
+N00036907::Keith, Pam
+N00009614::Keller, Ric
+N00031647::Kelly, Mike
+N00035215::Kelly, Robin
+N00037003::Kelly, Trent
+N00035976::Kelsey, Bill
+N00039152::Kelsey, Brian
+N00038681::Kemper, Nancy Jo
+N00034394::Kendall, Jason
+N00039053::Kender, Jeff
+N00034044::Kennedy, Joe III
+N00026823::Kennedy, John
+N00039130::Kern, Aliena Jeanene
+N00003777::Kern, Bob
+N00039121::Kersey, Andre
+N00038819::Key, John
+N00001885::Keyes, Alan
+N00039046::Keyser, Jon
+N00038732::Khal, Sami
+N00026427::Khanna, Ro
+N00037029::Khouri, Tonia
+N00039470::Khoury, Anton
+N00038719::Kiball, Teiji
+N00035555::Kiehne, Gary
+N00033530::Kihuen, Ruben
+N00033395::Kildee, Dan
+N00034453::Kilmer, Derek
+N00039712::Kimmons, Ronald
+N00004403::Kind, Ron
+N00039304::King, Brent
+N00001193::King, Pete
+N00025237::King, Steven A
+N00038757::King, Terri
+N00037291::Kingson, Eric
+N00037174::Kinlaw, Michael
+N00030667::Kinzinger, Adam
+N00038426::Kinzler, Jay
+N00012539::Kirk, Mark
+N00029260::Kirkpatrick, Ann
+N00038754::Kirshner, Brandon
+N00039176::Kitts, Derek
+N00036357::Klepinger, Robert
+N00039163::Kleven, Thomas
+N00004436::Kline, John
+N00038683::Knezek, Erick
+N00039704::Knight, Drew
+N00035820::Knight, Steve
+N00038657::Kokkonen, Matt
+N00035995::Kolls, Mike
+N00039504::Kondrat'Yev, Amanda
+N00032568::Koniz, Gary
+N00038863::Konsmo, Mike
+N00038648::Kopsick, Joe
+N00037270::Kozell, Rick
+N00037622::Kraayvanger, Jason
+N00033645::Kraus, Steven
+N00004231::Krause, Bob
+N00035636::Krause, Joel
+N00033240::Krishnamoorthi, Raja
+N00037027::Kroeger, Gary
+N00033822::Kundrata, Fred
+N00039256::Kuo, Peter
+N00030875::Kuster, Ann Mclane
+N00025445::Kustoff, David
+N00036949::Laboy, Zoe
+N00031377::Labrador, Raul
+N00036418::Lafrance, Nathan
+N00037031::LaHood, Darin
+N00005310::Laird, Steven C
+N00033987::LaMalfa, Doug
+N00039029::Lamb, Thomas
+N00035942::Lambert, Dennis G
+N00028133::Lamborn, Douglas L
+N00039094::Lamp, Toby
+N00039491::Lancaster, Gordon
+N00000898::Lance, Leonard
+N00039158::Landholt, Nicholas
+N00036981::Lane, James
+N00038629::Lange, Jim
+N00038750::Lange, John
+N00009724::Langevin, Jim
+N00031129::Lankford, James
+N00038598::Laplante, Roger Alan
+N00034864::Lapointe, Mike
+N00035729::LaPolice, Alan
+N00027088::Larchuk, Steve
+N00038558::Larivee, Bob
+N00030562::Larose, Josue
+N00038632::Larose, Valencia
+N00031517::Larsen, David
+N00009759::Larsen, Rick
+N00038448::Larson, Donald
+N00000575::Larson, John B
+N00039480::Laschober, Dan
+N00033718::Lasee, Frank
+N00038427::Lasonde, Joan McCarthy
+N00039291::LaSpino, James
+N00012233::Latta, Robert E
+N00029470::Lauren, Robert
+N00035093::Lavergne, Frederick
+N00036872::Law, Alexander
+N00036940::Law, Phil
+N00034068::Lawrence, Brenda
+N00039316::Lawrence, Derickson
+N00036939::Lawrence, Mary
+N00037434::Laws, Jerry
+N00035989::Lawson, Mark
+N00035334::Leach, Ron
+N00009918::Leahy, Patrick
+N00039178::Lebeck, Jason
+N00008046::Lee, Barbara
+N00031696::Lee, Mike
+N00037247::Lee, Susie
+N00038746::Lee, Yungman
+N00029403::Leeds, Robert
+N00037292::Leib, Bryan
+N00029779::Leone, Ross
+N00029841::Lessig, Lawrence
+N00034024::Levene, Allan
+N00003950::Levin, Sander
+N00038400::Lewis, Jason
+N00039139::Lewis, Jim
+N00039604::Lewis, Joel
+N00002577::Lewis, John
+N00035059::Lewis, Marcus
+N00037054::Li, Lindy
+N00032290::Lieber, Arthur
+N00035295::Lieberman, Richard
+N00037445::Liebnitzky, Wayne
+N00038769::Lieske, Joel
+N00035825::Lieu, Ted
+N00039484::Lindbeck, Steve
+N00039264::Lindner, Pete
+N00031346::Lingerfelt, Charles
+N00027239::Lipinski, Daniel
+N00039219::Littleton, Peg
+N00038799::Lloyd, James
+N00039430::Lloyd, Sarah
+N00000851::LoBiondo, Frank A
+N00039218::Lochner, Bob
+N00027741::Loebsack, David
+N00035990::Loewe, Mark
+N00007479::Lofgren, Zoe
+N00030676::Long, Billy
+N00037033::Lopez, Adam
+N00038444::Lopez, Pete
+N00037495::Lopez-Cantera, Carlos
+N00037493::Lopez-Cervantez, Joanne
+N00039144::Lorentz, Michael L.
+N00035347::Loudermilk, Barry
+N00033842::Love, Mia
+N00035572::Lowe, Thuy
+N00033274::Lowenthal, Alan
+N00001024::Lowey, Nita M
+N00037620::Lozano, Roy
+N00005559::Lucas, Frank D
+N00038439::Lucero, Michael Glenn
+N00027275::Luchansky, John
+N00037258::Lucius, Casey
+N00030026::Luetkemeyer, Blaine
+N00039659::Luick-Thrams, Michael
+N00029562::Lujan, Ben R
+N00029788::Lummis, Cynthia
+N00038736::Lupinacci, Chad
+N00039324::Luttrell, Mark
+N00035946::Lynch, Matt
+N00013855::Lynch, Stephen F
+N00037268::Lynn, Eric
+N00036155::MacArthur, Thomas
+N00039574::Macbeth, Karen
+N00039097::MacKenzie, Stephen
+N00039149::Mackey, Alfred
+N00037058::Maddux, Robert
+N00038829::Madrigal, Ray
+N00039110::Magee, Carl
+N00038652::Maggitt, Jesse
+N00039065::Mahendra, Bobby
+N00034721::Mahn, Todd
+N00039326::Maldonado, David
+N00031530::Malik, Dean
+N00039518::Malik, Rashid
+N00039581::Mallory, Prince
+N00038614::Malloy, Patrick
+N00039072::Malnes, Brian
+N00000078::Maloney, Carolyn B
+N00038590::Maloney, James
+N00034277::Maloney, Sean Patrick
+N00039146::Manchik, Joe
+N00039557::Mannino, Len
+N00039270::Manypenny, Mike
+N00026710::Marchant, Kenny
+N00036265::Marie, Lisa
+N00038727::Marin, Juan Antonio Jr
+N00031777::Marino, Tom
+N00039705::Markowitz, Warren
+N00038474::Marks, Stephen
+N00038635::Marlowe, Hayden
+N00004766::Marshall, Robert
+N00037034::Marshall, Roger
+N00037294::Marsicano, Michael
+N00038562::Marter, James
+N00035510::Martin, Andy
+N00038627::Martin, Jack
+N00038803::Martin, Jeff
+N00039030::Martin, John
+N00039528::Martinez, Jennifer
+N00038737::Martins, Jack
+N00039485::Martyn, Bryan
+N00037302::Marx, Angie
+N00037280::Mason, Christopher
+N00034041::Massie, Thomas
+N00037269::Mast, Brian
+N00037161::Masto, Catherine Cortez
+N00038585::Mathis, Nathan
+N00037523::Matory, Liz
+N00027459::Matsui, Doris O
+N00038284::Matta, Bill
+N00037453::Matthews, Andy
+N00037281::Matthews, Kathleen
+N00038764::Matvey, Joe
+N00038825::Mauck, Eric
+N00037131::Maul, Skip
+N00038617::Maxwell, Matt
+N00026095::May, Donald
+N00038643::Mayers, Richard
+N00036174::McAffrey, Al
+N00035209::McAllister, Lenny
+N00039037::McBean, Scott
+N00032970::McCain, Eddie
+N00006424::McCain, John
+N00035273::McCall, Matt
+N00039404::Mccall, Matt
+N00038257::McCarter, Kyle
+N00028152::McCarthy, Kevin
+N00026460::McCaul, Michael
+N00035304::McClelland, Erin
+N00006863::McClintock, Tom
+N00039511::McClure, Bill
+N00031924::McClure, James Jr
+N00038715::McCluskey, Blake
+N00039591::McCollaum, Paul Jr
+N00012942::McCollum, Betty
+N00038555::McConnell, Jonathan
+N00039166::McCormick, Kevin
+N00036854::McCoy, Dave
+N00039523::McCracken, Tricia Carpenter
+N00037589::McCullough, William
+N00026605::McDermott, George
+N00009829::McDermott, Jim
+N00038857::McDermott, Joe
+N00038854::McDevitt, David
+N00038691::McDonough, Pat
+N00038290::McDowell, Jan
+N00039327::McEachin, Donald
+N00037051::McFall, Jerald
+N00039131::McFarlane, Richard
+N00039034::McGill, Shadrack
+N00037566::McGinty, Katie
+N00000179::McGovern, James P
+N00038653::McGroarty, Colin
+N00026627::McHenry, Patrick
+N00033834::McKellar, Shirley
+N00031681::McKinley, David
+N00039421::Mckinney, Joseph
+N00038674::McLaughlin, Nathaniel
+N00038709::McLeod, Johnny
+N00039571::Mcmasters, Thomas
+N00035329::McMichael, Craig
+N00026314::McMorris Rodgers, Cathy
+N00038728::McNeil, John
+N00026926::McNerney, Jerry
+N00039227::McNicholas, Mark
+N00039181::McNulty, Terry
+N00033982::McSally, Martha
+N00039318::Mcteague, Dave
+N00033631::Meadows, Mark R
+N00033559::Mealer, John Lewis
+N00031134::Meehan, Patrick
+N00001171::Meeks, Gregory W
+N00038868::Meena, Jack
+N00038759::Meer, Edward
+N00038286::Mehaffey, Sam
+N00028428::Mellon, Rob
+N00037230::Meluskey, Alex
+N00037590::Mendenhall, David
+N00027936::Mendoza, Ben
+N00037022::Mendoza, Matt
+N00034547::Meng, Grace
+N00012546::Messer, Luke
+N00039492::Mettler, Ken
+N00039239::Meyer, John
+N00002793::Mica, John L
+N00007835::Mike, the Mover
+N00036942::Millard, Andy
+N00038697::Miller, Darlene
+N00039702::Miller, Jeff
+N00013846::Miller, Jeff
+N00039690::Miller, Rick
+N00039489::Miller, Robert
+N00036924::Mills, Chip
+N00036491::Mills, John
+N00039506::Mills, John
+N00038724::Mills, Thomas
+N00033888::Miniear, J D
+N00037444::Minning, Dena
+N00038745::Mirza, Ali
+N00033928::Mitchell, Monte
+N00036274::Mitchell, Paul
+N00038663::Mix, Richard
+N00037409::Moharir, Mukund Martand
+N00036900::Molnar, Robert
+N00036271::Molyett, Matthew
+N00028628::Monroe, Mike
+N00039074::Montes, Joseph
+N00036275::Moolenaar, John
+N00033814::Mooney, Alex
+N00039085::Mooney, Patrick
+N00026914::Moore, Gwen
+N00035447::Moore, Rodney
+N00039084::Moran, Jeff
+N00005282::Moran, Jerry
+N00039148::Morckel, Richard A.
+N00038430::Morgan, Yuripzy
+N00037266::Morning, John
+N00039078::Morris, Gerald
+N00037605::Morrison, Terrance
+N00008363::Morrow, John
+N00038413::Morse, Nicholas
+N00038672::Moss, Richard
+N00039535::Moss, Vanessa
+N00035431::Moulton, Seth
+N00037181::Mowery, Tod
+N00035416::Mowrer, Jim
+N00033410::Mullin, Markwayne
+N00031412::Mulvaney, Mick
+N00039150::Mundy, Keith
+N00038248::Murdock, Brett
+N00026050::Murkowski, Lisa
+N00037529::Muroff, Dan
+N00039307::Murphy, Dennis B
+N00037619::Murphy, John
+N00035289::Murphy, Pat
+N00033091::Murphy, Patrick
+N00024992::Murphy, Tim
+N00007876::Murray, Patty
+N00037177::Musante, Marcus
+N00039654::Myers, Gary
+N00039317::Myers, Kim
+N00038265::Myhra, Pam
+N00038642::Myrickes, Dorian
+N00000939::Nadler, Jerrold
+N00039033::Nana, Charles
+N00036930::Nance, Kathryn
+N00006789::Napolitano, Grace
+N00033667::Narvaiz, Susan
+N00038568::Nasiri, Mohammad Abous Sabur
+N00037399::Nathan, Bruce
+N00039469::Natividad, Jerry
+N00035377::Naughton, Shaughnessy
+N00037584::Navarro, Omar
+N00000153::Neal, Richard E
+N00036781::Neely, Charles
+N00037025::Negron, Rebecca
+N00039601::Nehlen, Paul
+N00039605::Nelson, Tom
+N00039142::Neu, James
+N00026043::Neugebauer, Randy
+N00038395::Neville, Tim
+N00039556::Newell, Casey
+N00036403::Newhouse, Dan
+N00037600::Newton, William
+N00037441::Nguyen, Bao
+N00037521::Nightenhelser, Todd
+N00039526::Nikolova, Staniela
+N00037517::Nikpour, Noelle
+N00038398::Noble, Sandra Queen
+N00032022::Noem, Kristi
+N00039573::Nogales-Molinelli, Mariana
+N00021207::Nolan, Rick
+N00037250::Noland, Michael
+N00039522::Nolin, Joyce
+N00036154::Norcross, Don
+N00021222::Norris, Chuck
+N00033875::Norris, Phil
+N00001692::Norton, Eleanor Holmes
+N00030734::Novak, Daria
+N00032441::Nugent, Richard
+N00007248::Nunes, Devin
+N00039728::O'Briant, Liddo Susan
+N00036943::O'Connor, Shawn
+N00037515::O'Halleran, Tom
+N00031956::O'Hara, Shawn
+N00037007::O'Malley, Martin
+N00038689::O'Malley, Tom
+N00039567::O'Reilly, Michael
+N00033540::O'Rourke, Beto
+N00039306::Ocasio, Javier
+N00033404::Oceguera, John
+N00038749::Oliva, Phil
+N00013843::Olivas, Miguel
+N00006355::Oliver, Craig S
+N00039381::Oliverio, Pierluigi
+N00038587::Olree, Brock
+N00039378::Olson, Justin
+N00029285::Olson, Pete
+N00029512::Orentlicher, David
+N00036892::Ortega, Gustavo
+N00037413::Orton, Bill
+N00038675::Osborne, Tom
+N00037496::Osborne, Walter
+N00039079::Oshins, Jeff
+N00037013::Ostrander, Bill
+N00005092::Ostrowski, Andrew J
+N00037189::Otto, Bill
+N00038723::Otto, Mark
+N00038704::Owens, Jacob
+N00034605::Oxley, Gary
+N00038664::Pace, Jim
+N00039049::Pahlke, Elizabeth Diane
+N00035898::Painter, Harold
+N00035766::Pakootas, Joe
+N00039675::Palacios, Art
+N00038808::Palacios, Juan Jr
+N00031958::Palazzo, Steven
+N00000781::Pallone, Frank Jr
+N00035691::Palmer, Gary
+N00039379::Palsson, Nils
+N00037157::Palzer, Tom
+N00038601::Panetta, Jimmy
+N00038261::Pape, Michael
+N00038622::Pappas, George
+N00037012::Parra, Daniel
+N00038458::Parrish, Don
+N00035958::Parrish, Mike
+N00039170::Partsch, James Galvan
+N00000751::Pascrell, Bill Jr
+N00028981::Pataki, George
+N00038816::Pate, Ava
+N00039472::Pate, Page Anthony
+N00036933::Patel, Ravi
+N00035104::Paterson, Clark
+N00039298::Patrick, Patrea
+N00038815::Patterson, Ralph
+N00038437::Patterson, Robert W
+N00038623::Patty, Brandon
+N00030836::Paul, Rand
+N00029391::Paulsen, Erik
+N00036986::Pavlov, Phil
+N00037162::Pawlowski, Ed
+N00034639::Payne, Donald M Jr
+N00039271::Payne, Tom
+N00012672::Pearce, Steve
+N00035203::Pearson, Cecil Jr
+N00038404::Pearson, Michael
+N00039098::Peavler, Bruce
+N00039514::Peixoto, Jose F
+N00039662::Pellerin, Josh
+N00007360::Pelosi, Nancy
+N00036991::Pena-Melnyk, Joseline
+N00039515::Pendley, Angela
+N00039179::Penebaker, Khary
+N00038409::Perez, Connie
+N00037502::Perez, Frank
+N00035984::Perez, Jaime
+N00026186::Perez, N Ruben
+N00037527::Perkins, Bill
+N00035512::Perkins, Jo Rae
+N00038630::Perkins, Randy
+N00027510::Perlmutter, Edwin G
+N00037610::Perry, Mary
+N00033486::Perry, Rick
+N00034120::Perry, Scott
+N00038288::Persinger, Scott
+N00027732::Persley, Erran
+N00039268::Person, Francis J
+N00038785::Pesquera, Carlos
+N00036895::Peter, Richard
+N00036800::Petermann, Jeff
+N00039395::Peters, Christopher
+N00033591::Peters, Scott
+N00039075::Petersen, Roger
+N00039386::Peterson, Bob
+N00004558::Peterson, Collin
+N00038824::Peterson, Hart
+N00038282::Petri, Scott
+N00039119::Petrus, Adrian
+N00039272::Peyton, Harvey
+N00037597::Pfaff, Jim
+N00038821::Phelps, Todd
+N00038417::Phillips, Bill
+N00038752::Phillips, George
+N00039560::Phillipson, Lorna
+N00037421::Picus, Preston
+N00039134::Pidot, Philip
+N00039040::Pierce, Douglas
+N00038634::Pierre-Charles, Idson
+N00013817::Pingree, Chellie
+N00039396::Piotrowski, James
+N00001524::Piotrowski, Rick
+N00039165::Pipkin, Paul
+N00036996::Pirkle, Greg
+N00030781::Pistone, John
+N00034416::Pittenger, Robert
+N00039477::Pittman, M Brent
+N00001633::Pitts, Joe
+N00038557::Pizer, David
+N00035000::Plaskett, Stacey
+N00036935::Plaster, Mark
+N00037443::Ploeckelmann, Michael
+N00039387::Plowright, Misty
+N00037290::Plumb, John
+N00033549::Pocan, Mark
+N00038626::Poe, Bob
+N00026457::Poe, Ted
+N00034584::Poliquin, Bruce
+N00029127::Polis, Jared
+N00030744::Pompeo, Mike
+N00003682::Portman, Rob
+N00029662::Posey, Bill
+N00000962::Powell, Adam Clayton IV
+N00038569::Prather, Kelli
+N00039722::Preble, Juston J.
+N00039171::Prentice, Thom
+N00039267::Price, Aaron
+N00002260::Price, David
+N00038625::Price, Leroi
+N00026160::Price, Tom
+N00037498::Prince, Joseph
+N00039118::Puca, Tony
+N00038851::Pugh, D Clay
+N00028240::Pullins, Pierre
+N00038670::Purdy, Polly Jesus
+N00037580::Putman, David
+N00039042::Pybrum, Steven
+N00030581::Quigley, Mike
+N00039087::Quinn, Christine
+N00036556::Quinn, Dennis C
+N00038556::Quinn, Pat
+N00034563::Quintanilla, Carlos
+N00038811::Quintanilla, Joel
+N00039180::Quisler, Ethel C
+N00039671::Quoc Vo, Jade Tuan
+N00025157::Raasch, Wayne
+N00036728::Rab, Aejaz
+N00037587::Rabinowitz, Jeffrey G
+N00007635::Radewagen, Amata Coleman
+N00039422::Rainey, Earl
+N00033837::Ramirez, Ruben
+N00038461::Ramsland, Russ
+N00037414::Randolph, Susannah
+N00037267::Rangel, Ricardo
+N00039167::Rangel, Roland
+N00035156::Rankin, Ed
+N00037278::Ransom, Lisa
+N00039261::Rantz, Gus
+N00037036::Raskin, Jamie
+N00035972::Ratcliffe, John Lee
+N00036921::Raty, Timothy A
+N00036553::Ray, Troy
+N00035229::Rayburn, Charles
+N00002002::Rea, John
+N00039129::Rechtzigel, Gene
+N00036045::Recktenwald, Tom
+N00037582::Redd, Shawn
+N00039486::Reed, James E
+N00030949::Reed, Tom
+N00038410::Reed, Wendy
+N00039260::Rees, Grover
+N00039539::Reeves, Ernest
+N00036422::Reeves, Ernest T
+N00036005::Reeves, Jason
+N00039411::Reichard, Richard
+N00026885::Reichert, Dave
+N00036994::Reigle, Hans
+N00025216::Reiter, George
+N00031127::Renacci, Jim
+N00038253::Rentas, Wanda
+N00038567::Rey, Chris
+N00038276::Reynolds, Roger
+N00039481::Reynolds, Steven
+N00039723::Rheinhart, Allen
+N00030968::Ribble, Reid
+N00035927::Rice, Kathleen
+N00033832::Rice, Tom
+N00038275::Rich, Roy
+N00035361::Richards, Ronny
+N00039228::Richardson, Lynn
+N00030125::Richardson, Marvin
+N00030184::Richmond, Cedric
+N00026683::Ridley, H J Jr
+N00030962::Rigell, Scott
+N00035642::Ritchie, Jason
+N00038561::Rivera, Ernesto J
+N00038758::Robbins, Jim
+N00037285::Roberson, Michael
+N00038721::Roberts, Jim
+N00038772::Roberts, Shawn
+N00037616::Roberts, Timothy
+N00038457::Robertson, Glen
+N00039467::Robertson, Logan
+N00036946::Robertson, Terry
+N00026150::Robinson, Vernon
+N00030768::Roby, Martha
+N00031007::Roche, Frank
+N00038414::Rochester, Lisa Blunt
+N00038425::Roderick, Steve
+N00039652::Rodgers, Emory
+N00028463::Roe, Phil
+N00038405::Rogers, Bob
+N00036983::Rogers, David
+N00005600::Rogers, Evelyn
+N00003473::Rogers, Hal
+N00024759::Rogers, Mike D
+N00007151::Rohrabacher, Dana
+N00031741::Rokita, Todd
+N00039410::Rolle, Dan
+N00037609::Romeo, Mike
+N00039420::Romero, Paul Jr
+N00038447::Ronan, Samuel
+N00029018::Rooney, Tom
+N00002858::Ros-Lehtinen, Ileana
+N00038784::Rosa, Angel
+N00013682::Rosa, David
+N00038720::Roseman, Jeffrey
+N00038734::Rosen, Jacky
+N00039314::Rosenberg, Oliver
+N00039135::Rosenthal, Philip
+N00039044::Rosier, Donald
+N00004719::Roskam, Peter
+N00038565::Ross, Deborah
+N00030645::Ross, Dennis
+N00031625::Ross, Henry
+N00036988::Rotering, Nancey Rodkin
+N00038631::Roth, Rick
+N00031253::Rothfus, Keith J
+N00037607::Rouco, George
+N00038838::Roughneen, Cherie Myint
+N00036086::Rourke, Robb
+N00033527::Rouzer, David
+N00039595::Rowe, Matt
+N00006671::Roybal-Allard, Lucille
+N00008264::Royce, Ed
+N00038263::Rubin, Joel
+N00030612::Rubio, Marco
+N00037040::Rucker, Austin
+N00033510::Ruiz, Raul
+N00025482::Ruppersberger, Dutch
+N00004887::Rush, Bobby L
+N00036175::Russell, Steven
+N00038699::Ryan, Greg
+N00039678::Ryan, Michelle
+N00004357::Ryan, Paul
+N00025280::Ryan, Tim
+N00030418::Sablan, Gregorio
+N00037613::Sadoff, Eli
+N00039603::Salamone, Philip
+N00037446::Salas, Javier
+N00038582::Salinas, Xavier
+N00006446::Salmon, Matt
+N00038591::San Miguel, Edna
+N00037038::Sanborn, Alan
+N00039081::Sanchez, Carlos
+N00037261::Sanchez, Heberto
+N00024870::Sanchez, Linda
+N00008274::Sanchez, Loretta
+N00000528::Sanders, Bernie
+N00038747::Sanders, Jaime
+N00038744::Sanders, James Jr
+N00002424::Sanford, Mark
+N00036362::Sannes, Marvin
+N00039297::Santamaria, Carlos J
+N00036948::Santarsiero, Steve
+N00038624::Santiago, David
+N00001380::Santorum, Rick
+N00036315::Sanyal, Ron
+N00039569::Sapaskis, Stylo
+N00027751::Sarbanes, John
+N00038250::Savary, Sue
+N00036189::Savitt, Marc
+N00039724::Sawyer, Tom
+N00037526::Sbaih, Jesse
+N00028677::Scaldaferri, Theresa C
+N00009660::Scalise, Steve
+N00039667::Scarborough, Rebel Michael
+N00039566::Schaefer, Mike
+N00038834::Schafranek, Robert
+N00004724::Schakowsky, Jan
+N00028138::Schatz, Brian
+N00038262::Scheminant, Kevin
+N00009585::Schiff, Adam
+N00039555::Schiffman, Steve
+N00035317::Schnackenberg, Matt
+N00033101::Schneider, Brad
+N00037016::Schneider, Helene
+N00039168::Schneiderman, Loren Marc
+N00029273::Schock, Aaron
+N00030071::Schrader, Kurt
+N00028236::Schrader, Tommy
+N00039677::Schrey, Elizabeth
+N00039487::Schrode, Erin
+N00035367::Schroeder, Daniel Michael
+N00037183::Schroeder, Will
+N00026106::Schultz, Debbie Wasserman
+N00001093::Schumer, Charles E
+N00039498::Schwartz, Gail
+N00006460::Schweikert, David
+N00032457::Scott, Austin
+N00002147::Scott, Bobby
+N00039089::Scott, Bobby
+N00024871::Scott, David
+N00037195::Scott, Elizabeth
+N00031782::Scott, Tim
+N00039259::Scupin, Michael
+N00037586::Seay, Bob
+N00039229::Seda, Anthony
+N00004291::Sensenbrenner, F James Jr
+N00037583::Seretskiy, Yuriy
+N00039313::Serota, Dan
+N00001813::Serrano, Jose E
+N00005681::Sessions, Pete
+N00028049::Sestak, Joe
+N00030622::Sewell, Terri A
+N00036318::Shambaugh, Andy
+N00038608::Shammas, Joe
+N00038443::Shaver, Rob
+N00028681::Shawver, Richard
+N00028091::Shea-Porter, Carol
+N00038712::Sheets, Lajena
+N00039584::Shekari, Melody
+N00009920::Shelby, Richard C
+N00035839::Sheldon, Steve
+N00035041::Shell, Mark
+N00038249::Shepherd, Doug
+N00039133::Shepherd, Rick
+N00035390::Sheridan, Tim
+N00006897::Sherman, Brad
+N00038666::Sherman, Rob
+N00038638::Sherzan, Mike
+N00004961::Shimkus, John M
+N00039232::Shlikas, Edward
+N00039549::Shoaf, Farren Kent
+N00038251::Short, Bryon Hall
+N00039055::Short, Grant
+N00038581::Showen, Paul
+N00038264::Shudofsky, Aryeh
+N00013770::Shuster, Bill
+N00038679::Sidle, Calvin
+N00039536::Simmons, Doanita
+N00036396::Simonsen, Collin
+N00039182::Simpson, Cory
+N00006263::Simpson, Mike
+N00038281::Sims, Brian
+N00038455::Sims, Kaleb
+N00033983::Sinema, Kyrsten
+N00038735::Singer, Alex
+N00027523::Sires, Albio
+N00036923::Sittenfeld, P G
+N00039599::Skold, Alida
+N00010719::Skolnick, Shelly
+N00039602::Slattery, William
+N00001311::Slaughter, Louise M
+N00039058::Slaughter, Stephen
+N00037056::Slavens, John
+N00037423::Smigiel, Mike
+N00007833::Smith, Adam
+N00027623::Smith, Adrian
+N00038693::Smith, Ande
+N00012760::Smith, Charles
+N00009816::Smith, Chris
+N00039331::Smith, Darin
+N00039157::Smith, Darrel Jr
+N00038204::Smith, Dennis
+N00039534::Smith, Douglas
+N00039583::Smith, Geoffery Suhmer
+N00035396::Smith, Glo
+N00035282::Smith, Jason
+N00039100::Smith, Jeff
+N00039590::Smith, Jeremy M.
+N00036212::Smith, Jesse T
+N00008327::Smith, Joe
+N00001811::Smith, Lamar
+N00038768::Smith, Michael
+N00039708::Smith, Rodney
+N00029635::Smith, William
+N00038781::Smucker, Lloyd
+N00039668::Snow, Misty K
+N00025139::Snyder, Jim
+N00035034::Soffen, Scott
+N00037188::Sol-Gutierrez, Ana
+N00038859::Solen, Ryan
+N00039703::Solorio, Jose
+N00038826::Somerville,Robert Eric
+N00039409::Sonnek-Schmelz, Brent J
+N00037422::Soto, Darren
+N00039132::Soules, Merrie Lee Ms.
+N00036530::Spain, Paul
+N00037410::Spalding, Carla
+N00038442::Spampinato, Frank
+N00037046::Sparks, Daniel
+N00031803::Sparks, David
+N00039509::Specht, Steven
+N00029649::Speier, Jackie
+N00003818::Spelbring, Ralph
+N00039483::Spencer, Lyndle
+N00039315::Spotorno, Frank
+N00037403::Spotorno, Frank
+N00038755::Spurlino, Jim
+N00038199::Staley, Violet
+N00038662::Standard, Sean
+N00039173::Stanley, Roy Carl
+N00039674::Stapley, Don
+N00034305::Stapley, Don
+N00038573::Starr, Michael Bob
+N00037055::Starrett, Grant
+N00037256::Steele, Victoria
+N00039328::Steenson, David
+N00035523::Stefanik, Elise
+N00039406::Stein, Jeffrey Lynn
+N00033776::Stein, Jill
+N00037593::Stella, Dominick
+N00036804::Stephens, Barry
+N00039424::Sterling, Laura
+N00035961::Stern, Everett
+N00038740::Stern, Steve
+N00039502::Stevens, Bill
+N00039649::Stevens, Cean
+N00033932::Stewart, Chris
+N00039069::Stewart, Faye
+N00038711::Stewart, Nathan
+N00038856::Stilwell, Jeff
+N00038200::Stine, Kevin
+N00029574::Stivers, Steve
+N00039370::Stock, Margaret
+N00039653::Stokes, Steve
+N00037585::Stokham, Casper
+N00034175::Stone, Damian
+N00038612::Stone, Jeff
+N00039517::Stooksbury, Rodney
+N00035673::Stovall, Dwayne
+N00001728::Stracuzzi, Natale
+N00037279::Strait, Terence
+N00038246::Strauss, Ray
+N00033103::Straw, Andrew
+N00003730::Strickland, Ted
+N00036760::Strzala, Melissa
+N00039172::Stuard, Gary
+N00038867::Stubson, Tim
+N00039661::Sturgill, Jerry
+N00030891::Stutzman, Marlin
+N00039423::Subick, Julian
+N00039510::Sukhia, Ken
+N00039686::Summerell, J.J.
+N00038196::Sundheim, Duf
+N00034752::Sunthonchart, Paiboon Jr
+N00038742::Suozzi, Tom
+N00036916::Swaim, Jason
+N00033508::Swalwell, Eric
+N00037041::Swartz, Donnie
+N00038837::Sweeney, Mike
+N00038814::Sweeten, Randy
+N00008079::Swing, Gary
+N00037553::Swinton, Jonathan
+N00038564::Szeliga, Kathy
+N00033798::Tacherra, Johnny
+N00029848::Taddeo, Annette
+N00036927::Tagert, Mike
+N00035535::Takai, Mark
+N00006701::Takano, Mark
+N00039376::Tamayo, Amy America
+N00037276::Tams, Michael
+N00039725::Tarbell, Bill
+N00031176::Tarkanian, Danny
+N00039036::Tate, Jason
+N00036909::Taub, Russ
+N00001982::Taylor, Blaine
+N00038416::Taylor, Dwayne L
+N00038771::Taylor, James
+N00039710::Taylor, Jordan
+N00035957::Taylor, Kerith Strano
+N00037024::Taylor, Priscilla
+N00039136::Teachout, Zephyr
+N00036334::Teijeiro, Annette
+N00038463::Teng, Chia-Chi
+N00039114::Therrien, David
+N00038620::Thies, Charles
+N00038778::Thomas, Brian
+N00038574::Thomas, Kathleen
+N00037437::Thomas, Mary
+N00039391::Thomas, Rod
+N00036075::Thomas, William Joseph
+N00039529::Thompson, Andrew
+N00003288::Thompson, Bennie G
+N00039696::Thompson, David W
+N00038399::Thompson, Geraldine
+N00029736::Thompson, Glenn
+N00036931::Thompson, Kirk
+N00007419::Thompson, Mike
+N00006052::Thornberry, Mac
+N00038431::Thornton, Alvin
+N00037191::Throne-Holst, Anna
+N00004572::Thune, John
+N00038794::Thurgood, Keith
+N00009699::Tiberi, Patrick J
+N00039169::Tidwell, Edward
+N00039161::Tijerina, Vanessa S
+N00038641::Tillman, Jimmy Lee II
+N00034194::Tinus, Ed
+N00027509::Tipton, Scott
+N00030191::Titus, Dina
+N00038462::Tokar, Jeff
+N00038271::Tolerton, Nicholas
+N00038698::Tollefson, Jon
+N00037595::Tom, Kip
+N00038639::Tomkins, Anthony
+N00039159::Tomlinson, Rusty
+N00030196::Tonko, Paul
+N00038706::Toole, Cathy
+N00001489::Toomey, Pat
+N00036107::Torres, Norma
+N00038801::Toth, Steve
+N00038252::Townsend, Bryan
+N00039672::Tran, Minh
+N00039576::Travison, Albert
+N00038688::Tribandis, Tommy
+N00039425::Tribble, Clint
+N00039174::Trimble, Scott
+N00039122::Trone, David
+N00035607::Trott, Dave
+N00038741::Trotta, Rob
+N00023864::Trump, Donald
+N00038570::Tsimerman, Alex
+N00029026::Tsongas, Niki
+N00037518::Tuck, Mickey
+N00039310::Tucker, Pam
+N00039076::Turner, Danny
+N00037035::Turner, Ingrid
+N00025175::Turner, Michael R
+N00037606::Tuttle, Bailey
+N00038866::Tyrrel, Charlie
+N00039655::Underwood, Erik
+N00012601::Unz, Ron
+N00004133::Upton, Fred
+N00026720::Vaden, William Ross
+N00038822::Vakil, Tejas
+N00033367::Valadao, David
+N00039482::Valdes, Alina
+N00037603::Valle, John Paul
+N00037284::Van Blarcom, Cory Scott
+N00013820::Van Hollen, Chris
+N00030108::Van Raam, Douglas S
+N00033703::Van Steenwyk, Clair
+N00038835::Vance, Brandon
+N00038242::Vance, Chris
+N00038650::Vandersand, Ethan
+N00039389::Vann, Diane
+N00031891::Vann, Diane
+N00039499::Vargas, Calandra
+N00007021::Vargas, Juan
+N00038459::Vargas, Phillip
+N00012669::Vaughn, Corrogan R
+N00035969::Veasaw, James B
+N00033839::Veasey, Marc
+N00037023::Vega, Angel L
+N00034349::Vela, Filemon
+N00001102::Velazquez, Nydia M
+N00037021::Veltmeyer, James
+N00035410::Vernon, Monica
+N00039726::Villa, Gerald
+N00038592::Villarreal, James
+N00037417::Villarreal, Ruben
+N00037175::Vince, Lou
+N00039468::Vineberg, Scott
+N00003813::Visclosky, Pete
+N00039413::Vitollo, Joe
+N00036779::Vivoni, Miguel Hernandez
+N00007470::Vlakancic, Connor
+N00026762::Vodvarka, Joseph John
+N00037599::Vogt, Dave
+N00034515::Vohra, Arvin
+N00038774::Volpe, Frank
+N00037277::Vowell, Edward
+N00038848::Wade, Mike
+N00035207::Wager, Michael
+N00033106::Wagner, Ann L
+N00039706::Waite, Neil M
+N00038289::Wakely, Tom
+N00037301::Walbeck, Matthew
+N00026368::Walberg, Tim
+N00007690::Walden, Greg
+N00036861::Walker, David
+N00038422::Walker, Kimberly H
+N00035311::Walker, Mark
+N00036995::Walker, Scott
+N00038855::Walkinshaw, Brady
+N00033288::Wallace, Dave
+N00039127::Wallace, Nancy
+N00039541::Wallin, Charlie
+N00039471::Walls-Windhauser, Angela
+N00031226::Walorski, Jackie
+N00039553::Walser, Jason
+N00035391::Walters, Mimi
+N00037522::Waltz, Brent
+N00038651::Walz, Jim
+N00027467::Walz, Timothy J
+N00034158::Ward, Ella
+N00037492::Ward, Kelli
+N00038637::Ware, Leonard
+N00027702::Warren, Andy
+N00038818::Warren, DeRenda
+N00039697::Warren, Harry
+N00006690::Waters, Maxine
+N00039687::Watson, Jane
+N00037018::Watson, Lupe Ramos
+N00037519::Weaver, Kim
+N00039479::Weaver, Paul
+N00028058::Webb, Jim
+N00038575::Webb, Mike
+N00033539::Weber, Randy
+N00026335::Webster, Daniel
+N00039323::Wegman, Gary
+N00039303::Weingart, Patrick
+N00000515::Welch, Peter
+N00039137::Wells, Steven M
+N00039236::Wells, Tom
+N00027810::Welsh, Barry
+N00033310::Wenstrup, Brad
+N00010701::Werner, Joe
+N00038588::Wescott, Mathew
+N00038775::West, Ben
+N00010640::West, Larry J
+N00038586::West, Mark
+N00035527::Westerman, Bruce
+N00038813::Westley, Tim
+N00026163::Westmoreland, Lynn A
+N00034249::Wharton, Scott
+N00036252::Wheeler, Marihelen
+N00038428::White, Herman
+N00036984::White, Jim
+N00038401::White, Kevin Francis Lt col
+N00038846::Whited, Joe
+N00026532::Whitehead, Paul
+N00003467::Whitfield, Ed
+N00035661::Whitney, Terry
+N00036925::Whitwell, Quentin
+N00037594::Wicklund, Mark
+N00039495::Wiggins, Christopher
+N00039405::Wik, Daniel
+N00037494::Wilcox, Todd
+N00039056::Wilder, Sellus
+N00027253::Wildes, Michael
+N00012956::Wiley, Albert Jr
+N00033759::Williams, Clyde
+N00035418::Williams, David III
+N00026864::Williams, Deborah L
+N00039727::Williams, Jarrod M.
+N00039374::Williams, Jay
+N00039221::Williams, Lily
+N00039588::Williams, M Latroy
+N00039596::Williams, Martin
+N00037005::Williams, Paul
+N00030602::Williams, Roger
+N00038446::Williams, Steve
+N00039043::Williamson, Jarrell
+N00038449::Willis, Colm
+N00038432::Willmert, Andrew
+N00038707::Wilson, Chase
+N00039117::Wilson, Debbie F
+N00036626::Wilson, Don
+N00030650::Wilson, Frederica
+N00024809::Wilson, Joe
+N00039516::Wilson, Kurt
+N00039273::Wilson, Robert Jr.
+N00037604::Winfrey, Janice
+N00038701::Winge, Kevin
+N00038454::Winston, Simon
+N00035630::Winteregg, J D
+N00029459::Wittman, Rob
+N00037232::Wolf, August
+N00031857::Womack, Steve
+N00039156::Wommack, Cody
+N00032416::Woodall, Rob
+N00039416::Woodley, Shabba
+N00029781::Woods, Jarrett
+N00038765::Wooley, George
+N00038798::Woolridge, Ruby
+N00038656::Wright, Doug
+N00037286::Wright, Keith
+N00039080::Wright, Kenneth
+N00036301::Wright, Paul
+N00039660::Writz, Raymond J
+N00039128::Wunder, Jasen
+N00007724::Wyden, Ron
+N00007286::Wyman, Phil
+N00025271::Xuna, John
+N00038751::Yandik, Will
+N00028073::Yarmuth, John A
+N00039230::Yarrington, Garry
+N00031502::Yoder, Kevin
+N00034330::Yoder, Shelli
+N00033220::Yoho, Ted
+N00035509::Young, David
+N00038584::Young, Dean
+N00007999::Young, Don
+N00039233::Young, Kay
+N00008502::Young, Lih
+N00039138::Young, Michele
+N00030670::Young, Todd
+N00037001::Zalcman, Mark
+N00029404::Zeldin, Lee
+N00035616::Zinke, Ryan K
+N00037047::Zinn, Walter Jr
+N00039047::Zirkelbach, Ray
+N00037426::Zoeller, Gregory
+N00037400::Zopp, Andrea
+N00039507::Zumwalt, James
+N00038606::Zuniga, Alberto
+N00034296::Aalders, Tim
+N00036765::Ables, Wayne
+N00036389::Abraham
+N00036633::Abraham, Ralph
+N00027398::Acosta, Raul
+N00029081::Adame, Marhshall
+N00035451::Adams, Alma
+N00032432::Adams, John
+N00035389::Adams, Steve
+N00036376::Adams, Thomas A
+N00031338::Adcock, Dee
+N00003028::Aderholt, Robert B
+N00033997::Aguilar, Pete
+N00035909::Aiken, Clay
+N00036001::Aikens, William
+N00033916::Alameel, David
+N00035564::Alas, Art
+N00036483::Alberson, Floyd Wayne
+N00009888::Alexander, Lamar
+N00035983::Alexander, Lewis
+N00033720::Allen, Richard W
+N00036679::Allison, Joy Jennifer
+N00031084::Amador, Tony
+N00031938::Amash, Justin
+N00031177::Amodei, Mark
+N00033885::Anderson, Dennis
+N00036108::Anderson, Peter O
+N00035343::Anderson, Quentin
+N00036730::Andrews, Matthew
+N00036777::Angel, Dark
+N00036746::Ansley, Justin
+N00035414::Appel, Staci
+N00034703::Armstrong, Brandon
+N00005697::Ashby, Ken
+N00005293::Ashford, Brad
+N00026113::Assini, Mark
+N00031491::Atanus, Susanne
+N00035012::Atwood, Frank
+N00035058::August, Bernie
+N00035733::Aulenti, James
+N00034173::Ayers, Avery
+N00030980::Ayotte, Kelly
+N00035027::Baber, Bob Henry
+N00005736::Babin, Brian
+N00027493::Bachmann, Michele
+N00008091::Bachus, Spencer
+N00035528::Bailey, Bill
+N00036336::Bakari, Kamau Akil
+N00036368::Balchunis, Mary Ellen
+N00035040::Baldwin, Raymond
+N00004367::Baldwin, Tammy
+N00036208::Ball, Gordon
+N00035112::Ballard, Scott J
+N00035896::Banach, Dave
+N00036602::Baratelli, Joe
+N00033981::Barber, Ron
+N00025804::Bardel, Hank
+N00035310::Barfield, Jonathan
+N00025495::Barletta, Lou
+N00034885::Barnhart, Scott J
+N00031233::Barr, Andy
+N00036815::Barr, Christina
+N00006236::Barrasso, John A
+N00035037::Barrilleaux, Bryan
+N00036384::Barron, Bill
+N00026080::Barrow, John
+N00005656::Barton, Joe
+N00036660::Basler, Doug
+N00036469::Bass, Herbert
+N00031877::Bass, Karen
+N00036598::Batson, Randall
+N00036706::Bauer, Lee
+N00036609::Beard, Mark T
+N00033904::Beatty, Joyce
+N00009774::Becerra, Xavier
+N00036584::Beck, Gwendolyn
+N00029901::Begich, Mark
+N00035623::Belgard, Aimee
+N00000871::Bell, Jeff
+N00014711::Bell, Philip H
+N00034793::Bellone, Alan
+N00035660::Bellows, Shenna
+N00031934::Benishek, Dan
+N00030608::Bennet, Michael F
+N00033625::Bentivolio, Kerry
+N00030717::Bera, Ami
+N00032405::Bergmann, Charlotte
+N00036780::Berman, Mike
+N00031994::Best, Russell
+N00035997::Betz, John
+N00036018::Beyer, Don
+N00027462::Bilirakis, Gus
+N00036449::Bishop, Mike
+N00025292::Bishop, Rob
+N00002674::Bishop, Sanford
+N00025413::Bishop, Timothy H
+N00031539::Black, Diane
+N00030082::Black, Phil
+N00003105::Blackburn, Marsha
+N00035971::Blair, Paul
+N00036836::Blais, Dianne L
+N00036834::Blais, Gerard
+N00031690::Blakeman, Bruce
+N00034999::Blue, Antonio
+N00033744::Blum, Rod
+N00007727::Blumenauer, Earl
+N00031685::Blumenthal, Richard
+N00005195::Blunt, Roy
+N00032925::Boal, Ellis
+N00035727::Bock, Joe
+N00003675::Boehner, John
+N00036578::Boggs, Tom
+N00031805::Boler, Mark
+N00033474::Bonamici, Suzanne
+N00033342::Bongino, Dan
+N00035577::Bonner, Jay Alan
+N00035267::Booker, Cory
+N00013873::Boozman, John
+N00024866::Bordallo, Madeleine Z
+N00036430::Bossi, Jill
+N00035420::Bost, Mike
+N00026595::Boustany, Charles W Jr
+N00035465::Bowden, Craig
+N00034622::Bowman, Joe
+N00036148::Bowman, Terry
+N00006692::Boxer, Barbara
+N00035307::Boyle, Brendan
+N00036816::Boyle, Stephen
+N00034812::Bradley, Wes
+N00005883::Brady, Kevin
+N00001619::Brady, Robert A
+N00036563::Brady, Ross
+N00027464::Braley, Bruce
+N00036227::Brand, Grant
+N00035871::Brannigan, Sharon
+N00036302::Brannon, Josh
+N00036013::Brat, Dave
+N00036223::Bray, Mark
+N00033532::Bridenstine, James
+N00035322::Brikho, George
+N00035959::Brion, Scott Floyd
+N00024983::Briscoe, Frank
+N00033911::Bromell-Tinubu, Gloria
+N00002517::Bronson, Bill
+N00036784::Brooks, David
+N00030910::Brooks, Mo
+N00033495::Brooks, Susan
+N00028986::Broun, Paul
+N00036832::Brown, Bo C
+N00002713::Brown, Corrine
+N00035759::Brown, Don
+N00036634::Brown, Harris
+N00036447::Brown, James
+N00005362::Brown, Raymond
+N00031174::Brown, Scott
+N00003535::Brown, Sherrod
+N00034590::Brown, Steve
+N00034254::Brownley, Julia
+N00035139::Brubaker, Richard
+N00031804::Bruner, Cory
+N00030237::Bryan, Jim
+N00035749::Buchal, James
+N00027626::Buchanan, Vernon
+N00030829::Buck, Kenneth R
+N00036614::Buckley, John
+N00031227::Bucshon, Larry
+N00036739::Buhrdorf, Dan
+N00035874::Bumpers, Robert
+N00035901::Burgess, Jeremy
+N00025219::Burgess, Michael
+N00034080::Burleson, Cindy
+N00002221::Burr, Richard
+N00036237::Bussell, Hugh
+N00033390::Bustos, Cheri
+N00027035::Butterfield, G K
+N00034089::Byrd, Jeff
+N00035380::Byrne, Bradley
+N00035436::Byrnes, Pam
+N00034726::Cadien, Tawana W
+N00035433::Cain, Emily
+N00035362::Callis, Ann
+N00007099::Calvert, Ken
+N00008086::Camp, Dave
+N00025982::Campbell, Douglas
+N00027565::Campbell, John
+N00033999::Campos, Benjamin
+N00036762::Cannon, Allen
+N00035515::Cannon, Jerry
+N00007836::Cantwell, Maria
+N00009771::Capito, Shelley Moore
+N00007232::Capps, Lois
+N00000267::Capuano, Michael E
+N00033373::Cardenas, Tony
+N00001955::Cardin, Ben
+N00034135::Cargas, James
+N00032688::Carlson, Steve
+N00030736::Carney, John
+N00012508::Carper, Tom
+N00036625::Carpio, Monica
+N00035827::Carr, Elan
+N00036757::Carr, James
+N00032554::Carr, William R
+N00029513::Carson, Andre
+N00036022::Carson, Jeffrey
+N00035346::Carter, Buddy
+N00036456::Carter, Jerry
+N00025095::Carter, John
+N00034128::Cartwright, Matt
+N00035216::Cary, Michael
+N00027503::Casey, Bob
+N00035325::Casey, Nick
+N00030245::Cassidy, Bill
+N00036310::Casteen, J Wesley
+N00027514::Castor, Kathy
+N00033316::Castro, Joaquin
+N00034795::Cavanagh, Daniel J
+N00035842::Cavanagh, Lori Hopkins
+N00027227::Cavasso, Cam
+N00036402::Celis, Pedro
+N00036735::Chabot, Brian
+N00036102::Chabot, Paul
+N00003689::Chabot, Steve
+N00036537::Chaffee, Chris
+N00028958::Chaffetz, Jason
+N00002685::Chambliss, Saxby
+N00036722::Chance, David
+N00035893::Chapman, John
+N00030475::Chapman, Margaret
+N00034591::Charles, Richard
+N00036143::Charlton, Walter
+N00034134::Chauvin, Hugh
+N00036824::Chester, David L
+N00035387::Chew, Robin Leo
+N00029692::Childers, Travis
+N00035326::Cho, Roy
+N00000133::Christian-Christensen, Donna
+N00036176::Christofferson, Aelea
+N00030600::Chu, Judy
+N00032019::Cicilline, David
+N00035888::Claitor, Dan
+N00035278::Clark, Katherine
+N00035890::Clark, Norm
+N00026961::Clarke, Yvette D
+N00035854::Clawson, Curt
+N00012460::Clay, William L Jr
+N00035917::Cleary, Brenda
+N00026790::Cleaver, Emanuel
+N00035238::Clements, Paul Colin
+N00036199::Clements, Thomas Patrick
+N00036267::Clemmons, Chris
+N00035968::Cleveland, Craig
+N00002408::Clyburn, James E
+N00036797::Clyde, Bill
+N00036152::Coakley, Vince
+N00003845::Coats, Dan
+N00036320::Cobb, Gary
+N00028845::Cobb, Joe
+N00002247::Coble, Howard
+N00005601::Coburn, Tom
+N00003328::Cochran, Thad
+N00032957::Cody, Ken
+N00024753::Coffman, Mike
+N00003225::Cohen, Steve
+N00035575::Cohn, Alan
+N00035136::Cole, Michael
+N00025726::Cole, Tom
+N00036158::Coleman, Bonnie
+N00001285::Collins, Chris
+N00033518::Collins, Doug
+N00000491::Collins, Susan M
+N00035978::Colliver, Ed
+N00036023::Comstock, Barbara
+N00007084::Conaway, Bob
+N00026041::Conaway, Mike
+N00032363::Condit, Jim
+N00029891::Connolly, Gerry
+N00004029::Conyers, John Jr
+N00035123::Cook, Don
+N00036492::Cook, Paul
+N00034224::Cook, Paul
+N00031820::Coons, Chris
+N00003132::Cooper, Jim
+N00035056::Corey, Matthew
+N00027441::Corker, Bob
+N00024852::Cornyn, John
+N00035994::Corvalan, Ruben
+N00026341::Costa, Jim
+N00031064::Costello, Ryan
+N00033363::Cotton, Tom
+N00024842::Courtney, Joe
+N00035208::Cox, David
+N00036090::Coyne, Thomas
+N00031142::Cozad, David
+N00025023::Craig, Kevin
+N00027243::Craig, Rufus
+N00035755::Cramer, Daniel Nelson
+N00004614::Cramer, Kevin
+N00006267::Crapo, Mike
+N00035619::Crawford, Dennis
+N00030770::Crawford, Rick
+N00012739::Crenshaw, Ander 
+N00036814::Crestwell, Gregory
+N00036171::Crossland, Pete
+N00001127::Crowley, Joseph
+N00034882::Crowley, Kawika
+N00033085::Cruz, Ted
+N00024978::Cuellar, Henry
+N00009738::Culberson, John
+N00036181::Culler, Anthony
+N00035133::Cummings, Daniel
+N00001971::Cummings, Elijah E
+N00036083::Cunningham, David
+N00036517::Cunningham, Kathleen Rosewater
+N00028439::Cunningham, Robb
+N00035403::Curbelo, Carlos
+N00036755::Curtis, Amanda
+N00036549::Daggett, Doug
+N00033054::Daines, Steven
+N00035879::Dale, John
+N00036839::Dale, Lawrence
+N00032884::Danet, Vincent Emile
+N00032934::Dashairya, Bhagwan
+N00036635::Dasher, Zach
+N00036719::Davenport, Samuel
+N00004884::Davis, Danny K
+N00034784::Davis, Rodney
+N00009604::Davis, Susan A
+N00036162::Day, Chris
+N00036464::Deakin, Paul
+N00036167::Dean, Tim
+N00031038::Debicella, Dan
+N00007781::DeFazio, Peter
+N00006134::DeGette, Diana
+N00033897::Delaney, John K
+N00000615::DeLauro, Rosa L
+N00030693::DelBene, Suzan
+N00036605::Delozier, Aaron
+N00035392::Demaio, Carl
+N00031593::Denham, Jeff
+N00036281::Denney, John
+N00035881::Denney, Shawn
+N00031180::Dennis, John
+N00026171::Dent, Charlie
+N00036330::Dentley, Yolanda
+N00036285::Denton, Courtney
+N00034746::DeSantis, Ron
+N00030709::Desaulnier, Mark
+N00030957::Desjarlais, Scott
+N00031317::Deutch, Ted
+N00030321::DeWitt, Rebecca
+N00036766::Dezarn, Don
+N00036350::Di Iorio, Nicholas S
+N00035121::Diaz, Antonio
+N00025337::Diaz-Balart, Mario
+N00035786::Dickerson, Joyce
+N00036550::Dickey, Ron
+N00031295::Didier, Clint
+N00035374::Dietzel, Paul
+N00036860::Dilger, Michael J
+N00035877::Dill, Josh
+N00036149::Dingell, Debbie
+N00001783::Dingell, John D
+N00036027::Dingethal, Bob
+N00035863::Dious, Ken
+N00029460::Djou, Charles
+N00036477::Doggart, Robert
+N00006023::Doggett, Lloyd
+N00035841::Doherty, Grant
+N00031103::Dold, Bob
+N00034876::Dolgos, Stephen
+N00036053::Domina, Dave
+N00035401::Domino, Carl
+N00034946::Donka, Mark
+N00026586::Donnelly, Joe
+N00036574::Douthitt, Jon
+N00001373::Doyle, Mike
+N00033881::Drummond, William (Cleave) II
+N00035102::Dryer, Norris
+N00027860::Duckworth, Tammy
+N00036791::Dudikoff, Sydeney
+N00030967::Duffy, Sean P
+N00036763::Dugas, Lee A
+N00033919::Duhon, Maurice
+N00035294::Duke, Greg
+N00035550::Dunbar, Forrest
+N00030752::Duncan, Jeff
+N00003209::Duncan, John J Jr
+N00036826::Duncan, Vince
+N00035242::Dunec, Mark S
+N00036799::Dunn, Donna
+N00004981::Durbin, Dick
+N00036580::Durbin, Sharon
+N00034105::Eberly, Eric
+N00035496::Eck, Alieta
+N00035299::Eckles, Shawn
+N00036014::Edmond, Micah
+N00036569::Edstrom, William
+N00036508::Edwards, Adrienne
+N00028249::Edwards, Donna
+N00036269::Edwards, Edwin
+N00035313::Eggman, Michael
+N00036835::Eickholt, Brad A
+N00036283::Elder, Daniel
+N00035243::Eldridge, Sean
+N00028257::Ellison, Keith
+N00031513::Ellmers, Renee
+N00036831::Else, David A
+N00036434::Emerson, Tom Jr
+N00035440::Emmer, Tom
+N00001003::Engel, Eliot L
+N00035309::Enyart, Douglas
+N00034884::Enyart, William
+N00006249::Enzi, Mike
+N00027434::Ericson, Cris
+N00035483::Ernst, Joni
+N00007335::Eshoo, Anna
+N00036794::Esquivel, Samuel
+N00033217::Esty, Elizabeth
+N00034408::Evans, James S
+N00034687::Everett, Earl E
+N00036838::Fahrendorf, Gus
+N00007632::Faleomavaega, Eni F H
+N00036524::Falstad, David B
+N00031672::Farenthold, Blake
+N00036055::Farr, Joan Elizabeth
+N00007312::Farr, Sam
+N00001746::Fattah, Chaka
+N00036650::Fausz, Elliott
+N00007364::Feinstein, Dianne
+N00035731::Felder, Cassie
+N00004663::Fellows, Mike
+N00035743::Fernandez, Jose Luis
+N00035858::Fernandez, Luis
+N00031141::Fincher, Steve
+N00033443::Fischer, Deb
+N00035930::Fischer, Jim
+N00027229::Fitzpatrick, Michael G
+N00035522::Fjeld, Laura
+N00009573::Flake, Jeff
+N00030815::Fleischmann, Chuck
+N00029679::Fleming, John
+N00031545::Flores, Bill
+N00013799::Forbes, Randy
+N00026631::Fortenberry, Jeff
+N00029139::Foster, Bill
+N00033960::Foster, James
+N00035764::Foust, John
+N00035973::Fowler, Gerald
+N00036444::Fox, Richard
+N00026166::Foxx, Virginia
+N00002893::Frankel, Lois J
+N00029016::Franken, Al
+N00036761::Franklin, Gwendolyn
+N00036482::Franklin, Robert D
+N00006423::Franks, Trent
+N00035223::Freeman, April
+N00000684::Frelinghuysen, Rodney
+N00035741::Frese, Michael
+N00032953::Freudenheim, Jack
+N00036802::Frey, Mike
+N00036803::Fritz, Dennis L
+N00035940::Fry, Robert
+N00030490::Fudge, Marcia L
+N00034627::Fulner, Jim
+N00036570::Funiciello, Matt
+N00033281::Gabbard, Tulsi
+N00036247::Gagnier, Christina
+N00017426::Gainer, Glen
+N00033541::Gallego, Pete
+N00036097::Gallego, Ruben
+N00027160::Gammill, Powell
+N00036583::Gandino-Saadein, Justin J
+N00030856::Garamendi, John
+N00029908::Garcia, Joe
+N00035800::Garcia, Marilinda
+N00036737::Garcia, Raul
+N00030780::Gardner, Cory
+N00036353::Garrett, Janet
+N00000743::Garrett, Scott
+N00035457::Garrison, Jennifer
+N00035730::Gatton, Mark A
+N00036398::Gaughan, Walter Lawrence
+N00036058::Gauthier, Edmund Louis
+N00036372::Geddings, Harold III
+N00025025::Gerlach, Jim
+N00036557::Gerrard, Roger
+N00034977::Gesty, Scott
+N00026251::Gianoutsos, Ted
+N00031128::Gibbs, Bob
+N00031998::Gibson, Chris
+N00034967::Gibson, Mark
+N00036064::Gillespie, Ed
+N00027658::Gillibrand, Kirsten
+N00024760::Gingrey, Phil
+N00034065::Gluck, George
+N00036806::Gnadt, Loel
+N00036841::Godfrey, Sean
+N00026148::Gohmert, Louis B Jr
+N00036560::Goikhman, Dorit
+N00036741::Goldsmith, Gardner
+N00009154::Goodlatte, Bob
+N00036273::Goodrich, Bob
+N00036342::Goossen, David
+N00035707::Gorell, Jeff
+N00036612::Gorman, Jeff
+N00030771::Gosar, Paul
+N00036210::Gottshall, Curt
+N00036488::Gouge, Casey
+N00030880::Gowdy, Trey
+N00013685::Graeser, Ron
+N00035688::Graham, Gwen
+N00009975::Graham, Lindsey
+N00008799::Granger, Kay
+N00035023::Grant, Clay
+N00001758::Grassley, Chuck
+N00036135::Graves, Garret
+N00013323::Graves, Sam
+N00030788::Graves, Tom
+N00028418::Grayson, Alan
+N00029204::Grayson, Richard
+N00026686::Green, Al
+N00005870::Green, Gene
+N00031203::Greenberg, Mark
+N00009743::Greene, Mark
+N00036628::Griffin, Calvin
+N00031297::Griffin, Tim
+N00032029::Griffith, Morgan
+N00025284::Grijalva, Raul M
+N00035486::Grimes, Alison
+N00031401::Grimm, Michael
+N00029400::Grisham, Michelle Lujan
+N00036409::Grothman, Glenn S
+N00036664::Gruett, Ron
+N00036751::Guerriero, Jeff
+N00036655::Guillot, BJ
+N00030801::Guinta, Frank
+N00036850::Gurney, Barry
+N00029675::Guthrie, Brett
+N00004874::Gutierrez, Luis V
+N00036146::Haddox, Steven
+N00029617::Hagan, Kay R
+N00031390::Hagedorn, Jim
+N00006806::Hahn, Janice
+N00035197::Hall, Heidi
+N00025740::Hall, Jim
+N00005645::Hall, Ralph
+N00035395::Halter, Irving Jr
+N00036228::Hamilton, Ken
+N00035986::Hamilton, Shawn Michael
+N00036651::Hammer, Will
+N00036842::Hammons, Bill
+N00036642::Hampton, Terry
+N00025881::Hanabusa, Colleen
+N00030197::Hanna, Richard
+N00025713::Hansen, Janine
+N00036198::Hansen, Sharon
+N00036539::Hardwick, Alan
+N00036070::Hardy, Charles E
+N00035628::Hardy, Cresent
+N00004207::Harkin, Tom
+N00032364::Harlow, David
+N00036818::Harmati, Louis
+N00029632::Harper, Gregg
+N00029147::Harris, Andy
+N00036613::Harris, Mark L
+N00036586::Harrold, Marc
+N00035631::Hart, Bob
+N00031005::Hartzler, Vicky
+N00013771::Hartzok, Alanna K
+N00036811::Hass, Erwin
+N00002884::Hastings, Alcee L
+N00009157::Hastings, Doc
+N00009869::Hatch, Orrin G
+N00018217::Hatchett, Charles
+N00025670::Haugh, Sean
+N00036805::Hawes, Leigh M
+N00035985::Haynes, Nick
+N00005459::Hays, Patrick Henry
+N00031124::Hayworth, Nan
+N00034132::Headrick, Mary Margaret
+N00031557::Heck, Dennis
+N00031244::Heck, Joe
+N00034717::Hedge, Bill
+N00028451::Hedrick, Steven
+N00029835::Heinrich, Martin
+N00033782::Heitkamp, Heidi
+N00034324::Heitzman, Susan Hall
+N00027522::Heller, Dean
+N00024922::Hensarling, Jeb
+N00031931::Herr, Brian
+N00031559::Herrera Beutler, Jaime
+N00032243::Hice, Jody B
+N00027060::Higgins, Brian M
+N00036833::Hildebrandt, Elaine B
+N00035030::Hildebrandt, Ken
+N00035792::Hill, French
+N00032983::Hill, Sid
+N00036312::Hill, Tom
+N00011129::Hill, Wayne L
+N00029070::Himes, Jim
+N00006008::Hinojosa, Ruben
+N00036494::Hinton, James
+N00035312::Hinz, Janet
+N00028139::Hirono, Mazie K
+N00031688::Hoeven, John
+N00034293::Holcomb, David Christopher
+N00036798::Holder, Bryan Jack
+N00033399::Holding, George
+N00036048::Hollis, Paul
+N00005437::Holloway, Clyde C
+N00036538::Holmes, Jeff
+N00000860::Holt, Rush
+N00012611::Honda, Mike
+N00025924::Horning, Andy
+N00033638::Horsford, Steven
+N00036178::Houghton, Tom
+N00036486::Howie, Gordon
+N00001821::Hoyer, Steny H
+N00035897::Hoyt, Nancy
+N00036783::Hudok, Paul
+N00033630::Hudson, Richard
+N00027649::Huelskamp, Tim
+N00033030::Huffman, Jared
+N00035920::Hughes, Bill Jr
+N00030673::Huizenga, Bill
+N00031104::Hultgren, Randy
+N00029258::Hunter, Duncan D
+N00031417::Hurd, Will
+N00031265::Hurt, Robert
+N00036431::Hutto, Brad
+N00005963::Idrogo, Michael
+N00035756::Ince, Cecil Anthony
+N00005582::Inhofe, James M
+N00036288::Irvin, Nate
+N00002593::Isakson, Johnny
+N00013345::Israel, Steve
+N00007017::Issa, Darrell
+N00031603::Izzo, Rose
+N00005818::Jackson Lee, Sheila
+N00036559::Jackson, Eli "Sarge"
+N00036366::James, Armond
+N00036435::James, Joshua
+N00036786::Jamias, Mapu S
+N00035573::Janay, Laura
+N00033640::Jeffries, Hakeem
+N00035531::Jenkins, Evan
+N00035804::Jenkins, Jim
+N00029077::Jenkins, Lynn
+N00035613::Jennings, Vincent
+N00035425::Jensen, Elisabeth
+N00029444::Johanns, Mike
+N00032088::Johnson, Bill
+N00036468::Johnson, Connie
+N00036576::Johnson, Dennis B
+N00008122::Johnson, Eddie Bernice
+N00027848::Johnson, Hank
+N00036709::Johnson, Heather
+N00035128::Johnson, James L Jr
+N00036081::Johnson, Johnny
+N00035725::Johnson, Karen M
+N00032546::Johnson, Ron
+N00008028::Johnson, Sam
+N00036859::Johnson, Sam
+N00010084::Johnson, Tim
+N00034817::Joiner, Gregory
+N00035717::Jolly, David
+N00036031::Jones, Davy
+N00036810::Jones, Harold H
+N00036457::Jones, Jeff
+N00036785::Jones, Paul
+N00035974::Jones, Russ
+N00002299::Jones, Walter B Jr
+N00027894::Jordan, Jim
+N00035007::Joyce, David P
+N00033182::Kabat, Ronald P
+N00035586::Kaifesh, Lawrence Joseph
+N00033177::Kaine, Tim
+N00003522::Kaptur, Marcy
+N00035934::Katko, John
+N00033516::Kaufman, Joe
+N00031933::Keating, Bill
+N00036659::Keller, Craig
+N00031647::Kelly, Mike
+N00035215::Kelly, Robin
+N00035976::Kelsey, Bill
+N00034044::Kennedy, Joe III
+N00036864::Kent, Gaylon
+N00036629::Kent, Joe
+N00026427::Khanna, Ro
+N00033395::Kildee, Dan
+N00034453::Kilmer, Derek
+N00035205::Kimber, James
+N00036341::Kimmick, Randy
+N00004403::Kind, Ron
+N00034580::King, Angus
+N00025630::King, Karl
+N00001193::King, Pete
+N00036509::King, R Adam
+N00025237::King, Steven A
+N00002656::Kingston, Jack
+N00030667::Kinzinger, Adam
+N00012539::Kirk, Mark
+N00029260::Kirkpatrick, Ann
+N00036357::Klepinger, Robert
+N00004436::Kline, John
+N00027500::Klobuchar, Amy
+N00035820::Knight, Steve
+N00036002::Koch, Max
+N00025996::Kocher, Victor
+N00035454::Kohn, Erin Bilbray
+N00036677::Kohring, Vic
+N00036680::Kokoski, Michael
+N00036711::Kolber, Vincent A
+N00035715::Koller, David
+N00035995::Kolls, Mike
+N00032568::Koniz, Gary
+N00033548::Kopsick, Joe
+N00035922::Kovach, Janice
+N00036624::Krepp, Tim
+N00036266::Krom, John
+N00002798::Krulick, Al
+N00034319::Kuhnle, Justin
+N00035884::Kultala, Kelly
+N00033822::Kundrata, Fred
+N00036408::Kurtz, Tony
+N00030875::Kuster, Ann Mclane
+N00031377::Labrador, Raul
+N00030308::Ladner, Lenny
+N00036418::Lafrance, Nathan
+N00005310::Laird, Steven C
+N00001191::Lally, Grant
+N00033987::LaMalfa, Doug
+N00035942::Lambert, Dennis G
+N00028133::Lamborn, Douglas L
+N00000898::Lance, Leonard
+N00035488::Land, Terri Lynn
+N00005395::Landrieu, Mary L
+N00036823::Langan, Jeffrey
+N00035977::Lange, Ryan
+N00009724::Langevin, Jim
+N00031129::Lankford, James
+N00035993::Lapham, Rob
+N00035626::Lara, Rocky
+N00009759::Larsen, Rick
+N00000575::Larson, John B
+N00004227::Latham, Tom
+N00012233::Latta, Robert E
+N00035956::Lavallee, Dan
+N00035093::Lavergne, Frederick
+N00027607::Lawhorn, Zane Rene
+N00034068::Lawrence, Brenda
+N00035852::Lawrence, Henry
+N00036857::Lawrence, John
+N00036348::Lawrence, Nate
+N00036114::Lawson, Howard
+N00035334::Leach, Ron
+N00036243::Leader, William
+N00009918::Leahy, Patrick
+N00035833::Leavens, Drew
+N00008046::Lee, Barbara
+N00035847::Lee, Luther
+N00031696::Lee, Mike
+N00035383::Leflore, Burton
+N00036732::Leiber, Arthur
+N00035837::Leing, George
+N00029779::Leone, Ross
+N00036750::Lester, Mark
+N00035967::Letsos, Niko
+N00036768::Letton, Don
+N00036852::Leuenberger, Jim
+N00001691::Levin, Carl
+N00003950::Levin, Sander
+N00002577::Lewis, John
+N00035682::Lewis, John
+N00003796::Leyva, Mark J
+N00032290::Lieber, Arthur Henry
+N00035295::Lieberman, Richard
+N00035825::Lieu, Ted
+N00027239::Lipinski, Daniel
+N00036119::Livingston, Gregory Seal
+N00036796::Loban, Jess
+N00000851::LoBiondo, Frank A
+N00027741::Loebsack, David
+N00035990::Loewe, Mark
+N00007479::Lofgren, Zoe
+N00035556::Logue, Dan
+N00030676::Long, Billy
+N00036536::Long, Charles A
+N00035018::Lord, Randall
+N00035347::Loudermilk, Barry
+N00033842::Love, Mia
+N00033274::Lowenthal, Alan
+N00035891::Lowenthal, Jason Philip
+N00001024::Lowey, Nita M
+N00005559::Lucas, Frank D
+N00030026::Luetkemeyer, Blaine
+N00033004::Lugo, Christina
+N00029562::Lujan, Ben R
+N00029788::Lummis, Cynthia Marie
+N00036582::Lynch, Cormick
+N00013855::Lynch, Stephen F
+N00036155::MacArthur, Thomas
+N00035588::Macfarlane, Michael
+N00035635::Maciel, Jonathan
+N00030558::Macko, David
+N00035914::MacQueen, Tate
+N00027891::Maffei, Dan
+N00020079::Magee, Doug
+N00036767::Maggard, Mike
+N00001157::Maher, Pat
+N00000078::Maloney, Carolyn B
+N00034277::Maloney, Sean Patrick
+N00032838::Manchin, Joe
+N00035487::Maness, Rob
+N00026710::Marchant, Kenny
+N00035463::Marchbanks, Neal
+N00036200::Marineau, Paul
+N00031777::Marino, Tom
+N00000270::Markey, Ed
+N00032264::Marksberry, Ed
+N00035817::Marrero-Aguilera, Suzanna
+N00035873::Mason, Michael
+N00034041::Massie, Thomas
+N00035053::Mata'Utia, Tu'au Kereti Jr
+N00036391::Mates, Ben J
+N00009753::Matheson, Jim
+N00035132::Matkin, Richard A
+N00027459::Matsui, Doris O
+N00036712::Maxwell, Chip
+N00036356::May, Richard
+N00036801::Mayo, Chris
+N00036637::Mayock, Frederick
+N00036174::McAffrey, Al
+N00034442::McAleer, Donna
+N00035593::McAllister, Vance
+N00006424::McCain, John
+N00001148::McCarthy, Carolyn
+N00028152::McCarthy, Kevin
+N00027694::McCaskill, Claire
+N00026460::McCaul, Michael
+N00034468::McCausland, Shaun
+N00035304::McClelland, Erin
+N00036589::McClendon, Martin
+N00006863::McClintock, Tom
+N00012942::McCollum, Betty
+N00003389::McConnell, Mitch
+N00034384::McCray, Joseph Sr
+N00036134::McCulloch, Craig
+N00034908::McDermott, Jim
+N00009829::McDermott, Jim
+N00036858::McDermott, John V
+N00036407::McDonald, Joyce
+N00035489::McFadden, Mike
+N00033922::McGehearty, Patrick
+N00000179::McGovern, James P
+N00026627::McHenry, Patrick
+N00002356::McIntyre, Mike
+N00033834::McKellar, Shirley
+N00035397::McKenna, Michael
+N00035681::McKenzie, Bobby
+N00006882::McKeon, Buck
+N00031681::McKinley, David
+N00036375::McLaughlin, Curtis E
+N00033509::McLeod, Gloria
+N00026314::McMorris Rodgers, Cathy
+N00035779::McMorris, Brannon
+N00026926::McNerney, Jerry
+N00036096::McPherson, Jackie
+N00033982::McSally, Martha
+N00036515::Meade, Stephen
+N00033631::Meadows, Mark R
+N00031134::Meehan, Patrick
+N00001171::Meeks, Gregory W
+N00027326::Mendoza, M V
+N00000699::Menendez, Robert
+N00034547::Meng, Grace
+N00035352::Mensing, Dale Kenneth
+N00030506::Meo, Michael
+N00033037::Mercer, Gabriela Saucedo
+N00029303::Merkley, Jeff
+N00036795::Mero, Travis
+N00012546::Messer, Luke
+N00036713::Metcalfe, Margaret
+N00036837::Meyer, Randall
+N00036696::Meyer, Robert H
+N00035513::Meyers, Vic
+N00002793::Mica, John L
+N00024770::Michaud, Mike
+N00025775::Mikkelson, Harley
+N00001945::Mikulski, Barbara A
+N00036522::Milakovich, Marko
+N00009795::Miller, Candice S
+N00031493::Miller, Darrel
+N00036856::Miller, Eric
+N00006954::Miller, Gary
+N00007390::Miller, George
+N00013846::Miller, Jeff
+N00029495::Miller-Meeks, Mariannette
+N00035443::Mills, Stewart
+N00035464::Minor, Louie
+N00035758::Minter, Michael
+N00035604::Misiuk, Isaac
+N00036475::Mitchell, Cassandra J
+N00036041::Mitchell, Nels
+N00033368::Mitchum, Christopher
+N00034719::Monchil, Russ
+N00036610::Montchalin, Mike
+N00034502::Montigel, Bob
+N00036770::Montilla, Nestor
+N00005988::Montoya, Marco
+N00036275::Moolenaar, John
+N00033814::Mooney, Alex
+N00036232::Moore, Art
+N00026914::Moore, Gwen
+N00035184::Moore, Matt
+N00028833::Moran, David
+N00005282::Moran, Jerry
+N00002083::Moran, Jim
+N00036520::Moser-Bartlett, Paula
+N00036649::Mosher, Norm
+N00035431::Moulton, Seth
+N00035416::Mowrer, Jim
+N00035634::Moylan, David
+N00033410::Mullin, Markwayne
+N00036374::Mullis, Barbara Jo
+N00031412::Mulvaney, Mick
+N00026050::Murkowski, Lisa
+N00027566::Murphy, Christopher S
+N00035289::Murphy, Pat
+N00033091::Murphy, Patrick E
+N00036078::Murphy, Richard
+N00005531::Murphy, Robert T
+N00024992::Murphy, Tim
+N00007876::Murray, Patty
+N00034492::Murray, Robert
+N00000939::Nadler, Jerrold
+N00006789::Napolitano, Grace
+N00033667::Narvaiz, Susan
+N00036647::Nazario, Noel Jaime
+N00000153::Neal, Richard E
+N00036781::Neely, Charles
+N00009926::Nelson, Bill
+N00027570::Neree, Dufirstson
+N00035336::Nestande, Brian
+N00031469::Netherwood, Ray
+N00026043::Neugebauer, Randy
+N00036758::Neuman, Scott
+N00035849::Neuman, Wes
+N00036403::Newhouse, Daniel Milton
+N00036526::Newman, Joe
+N00036512::Nick, Adam
+N00032022::Noem, Kristi
+N00021207::Nolan, Rick
+N00036154::Norcross, Don
+N00001692::Norton, Eleanor Holmes
+N00032441::Nugent, Richard
+N00007248::Nunes, Devin
+N00035480::Nunn, Michelle
+N00031006::Nunnelee, Alan
+N00036572::O'Donnell, Jim
+N00003338::O'Hara, Shawn
+N00033540::O'Rourke, Beto
+N00009638::Obama, Barack
+N00034629::Obermueller, Mike
+N00024894::Oberweis, James D
+N00036771::Olabisi, Bayo
+N00031808::Oliver, Bill
+N00035096::Olivera, Pablo
+N00025870::Olsen, Norm
+N00035584::Olsen, Randall
+N00029285::Olson, Pete
+N00029613::Orman, Greg
+N00034310::Orswell, Jack
+N00007581::Ose, Doug
+N00036455::Ostrowski, Andrew J
+N00035612::Overby, Paula
+N00031011::Owens, Bill
+N00036011::Owens, Doug
+N00036063::Paddock, Rebecca
+N00035766::Pakootas, Joe
+N00031958::Palazzo, Steven
+N00000781::Pallone, Frank Jr
+N00035691::Palmer, Gary
+N00035846::Panifi, Sara Jane
+N00036062::Parachuri, Tanuja
+N00032976::Parker, Gail
+N00034564::Partain, Johnny
+N00000751::Pascrell, Bill Jr
+N00006397::Pastor, Ed
+N00036822::Pastorius, David Allen
+N00035104::Paterson, Clark
+N00035640::Patrick, Suzanne
+N00036772::Patterson, David
+N00036328::Paul, Dierdre
+N00030836::Paul, Rand
+N00029391::Paulsen, Erik
+N00034639::Payne, Donald M Jr
+N00012672::Pearce, Steve
+N00036714::Pearson, Michael
+N00035567::Peiser, Dave
+N00021580::Pekarek, Thomas
+N00007360::Pelosi, Nancy
+N00035516::Perdue, David
+N00036003::Perez, Frank
+N00035984::Perez, Jaime O
+N00027510::Perlmutter, Edwin G
+N00036567::Perri, Elizabeth
+N00034120::Perry, Scott
+N00035903::Perske, Joe
+N00036800::Petermann, Jeff
+N00029277::Peters, Gary
+N00033591::Peters, Scott
+N00004558::Peterson, Collin
+N00026126::Peterson, Richard
+N00004426::Petri, Tom
+N00035975::Petty, Ken
+N00036747::Pfleegor, Scott
+N00036168::Phillip, Dan
+N00036437::Phillips, Bartholomew J
+N00029168::Pierluisi, Pedro
+N00036024::Piliere, Frank
+N00030005::Ping, Catherine
+N00013817::Pingree, Chellie
+N00034416::Pittenger, Robert
+N00001633::Pitts, Joe
+N00035979::Pivoda, Emily
+N00035000::Plaskett, Stacey
+N00035378::Platt, Carol
+N00034992::Pleasant, Martin
+N00033549::Pocan, Mark
+N00026457::Poe, Ted
+N00035746::Poetter, Tom
+N00034584::Poliquin, Bruce
+N00029127::Polis, Jared
+N00030744::Pompeo, Mike
+N00036853::Porambo, Joe
+N00003682::Portman, Rob
+N00029662::Posey, Bill
+N00035323::Powers, Amos Scott
+N00004565::Pressler, Larry
+N00002260::Price, David
+N00026160::Price, Tom
+N00004092::Proctor, Ken
+N00013823::Pryor, Mark
+N00036754::Puccetti, Gregory
+N00031544::Purl, Doug
+N00035812::Quang, Tue Phan
+N00036597::Quast, Bob
+N00032951::Quick, Mark D
+N00030581::Quigley, Mike
+N00036410::Rabel, Edward Lawrence Jr
+N00002198::Rahall, Nick
+N00035757::Raley, J P
+N00036568::Ramirez, Eduardo
+N00036790::Ramirez, Sampson U
+N00000964::Rangel, Charles B
+N00035156::Rankin, Ed
+N00004633::Rankin, Sam
+N00036782::Ransdell, Robert Edward
+N00035972::Ratcliffe, John Lee
+N00036365::Rath, Megan Ann
+N00032524::Rawles, Mark J
+N00036579::Ray, Buddy
+N00036523::Ray, Leon Loe
+N00036553::Ray, Troy
+N00036862::Raymond, Robert
+N00029405::Recchia, Domenic
+N00030145::Redpath, William
+N00000362::Reed, Jack
+N00030776::Reed, Mark
+N00030949::Reed, Tom
+N00035999::Reed, Wesley
+N00035860::Reese, Brian
+N00036005::Reeves, Jason
+N00036150::Reich, Ed
+N00026885::Reichert, Dave
+N00009922::Reid, Harry
+N00035752::Reis, Rhue
+N00025216::Reiter, George
+N00031127::Renacci, Jim
+N00035560::Renteria, Amanda
+N00013164::Reyes, Art
+N00036865::Rhodes, John
+N00030968::Ribble, Reid
+N00035927::Rice, Kathleen
+N00033832::Rice, Tom
+N00036151::Rich, Arthur
+N00030184::Richmond, Cedric
+N00026683::Ridley, H J Jr
+N00031653::Ries, Bob
+N00030962::Rigell, Scott
+N00036793::Rike, Chris
+N00035845::Rimensnyder, Nelson
+N00036346::Rines, Caprice
+N00035583::Ringo, Shirley
+N00029441::Risch, James E
+N00035549::Ritch, John Thomas
+N00035642::Ritchie, Jason
+N00036565::Rivera, Daniel Vila
+N00030199::Robbins, Frankie
+N00005285::Roberts, Pat
+N00035337::Robertson, Martha
+N00032006::Robinson, Art
+N00035753::Robinson, Corinna
+N00036298::Robinson, Joey
+N00035639::Robles, Luz
+N00030768::Roby, Martha
+N00001685::Rockefeller, Jay
+N00036591::Rockwood, Chris
+N00035719::Rodgers, Mike
+N00028463::Roe, Phil
+N00003473::Rogers, Hal
+N00009668::Rogers, Mike
+N00024759::Rogers, Mike D
+N00036830::Rogers, Warren
+N00033985::Rogers, Wendy
+N00007151::Rohrabacher, Dana
+N00031741::Rokita, Todd
+N00029814::Roland, Jon
+N00028747::Romaguera, Allan
+N00031163::Romanoff, Andrew
+N00029018::Rooney, Tom
+N00036421::Roots, Roger
+N00002858::Ros-Lehtinen, Ileana
+N00004719::Roskam, Peter
+N00030645::Ross, Dennis
+N00035855::Rossano, Timothy
+N00035344::Rothblatt, Gabriel
+N00031253::Rothfus, Keith J
+N00035187::Rounds, Mike
+N00033527::Rouzer, David
+N00029419::Rowley, Ryan
+N00006671::Roybal-Allard, Lucille
+N00008264::Royce, Ed
+N00013336::Rozzo, Tino
+N00030612::Rubio, Marco
+N00033510::Ruiz, Raul
+N00036581::Rumzie, Robert
+N00031988::Runyan, Jon
+N00025482::Ruppersberger, Dutch
+N00004887::Rush, Bobby L
+N00033229::Russell, Jeffrey
+N00036748::Russell, Richard
+N00036175::Russell, Steven
+N00004357::Ryan, Paul
+N00025280::Ryan, Tim
+N00030418::Sablan, Gregorio
+N00036817::Salas, Andrew
+N00036438::Salekin, Choudury
+N00006446::Salmon, Matt
+N00035068::Salvette, Emily
+N00034802::Salyer, Michael
+N00035699::Samuelson, James Alan
+N00032211::Sanchez, David
+N00036061::Sanchez, Emily
+N00036792::Sanchez, Federico
+N00024870::Sanchez, Linda
+N00008274::Sanchez, Loretta
+N00000528::Sanders, Bernie
+N00036641::Sandman, Ray Skip
+N00036720::Sanford, Jeffry
+N00002424::Sanford, Mark
+N00036362::Sannes, Marvin
+N00027751::Sarbanes, John
+N00036442::Sarvis, Robert Christopher
+N00035544::Sasse, Ben
+N00036753::Saucier, Charles
+N00036112::Savary, Suzanne Joyce
+N00009660::Scalise, Steve
+N00036564::Schaeffer, Kenneth D
+N00004724::Schakowsky, Jan
+N00036529::Schamis, Raymond Todd
+N00028138::Schatz, Brian
+N00036439::Schechter, Eric
+N00036541::Schertzing, Eric
+N00009585::Schiff, Adam
+N00030668::Schilling, Bobby
+N00035602::Schlakman, Ian
+N00035317::Schnackenberg, Matt
+N00033101::Schneider, Brad
+N00029273::Schock, Aaron
+N00036025::Scholte, Suzanne
+N00030071::Schrader, Kurt
+N00036774::Schroeder, Hank
+N00036268::Schuckman, Perry
+N00026106::Schultz, Debbie Wasserman
+N00001093::Schumer, Charles E
+N00001579::Schwartz, Allyson
+N00028618::Schwartz, Leonard
+N00006460::Schweikert, David
+N00036326::Scolavino, Ruben
+N00032457::Scott, Austin
+N00022725::Scott, Bob
+N00002147::Scott, Bobby
+N00024871::Scott, David
+N00031782::Scott, Tim
+N00035028::Seaman, David
+N00036317::Seaman, Jack
+N00030695::Sebring, Dan
+N00034695::Seibert, Sean
+N00036773::Senegal, Villian
+N00035332::Senger, Darlene
+N00004291::Sensenbrenner, F James Jr
+N00001813::Serrano, Jose E
+N00003062::Sessions, Jeff
+N00005681::Sessions, Pete
+N00030622::Sewell, Terri A
+N00024790::Shaheen, Jeanne
+N00022814::Shapiro, Robert
+N00035079::Sharer, Chris
+N00000680::Shaw, Herbert
+N00036726::Shbeita, Adam
+N00028091::Shea-Porter, Carol
+N00009920::Shelby, Richard C
+N00035041::Shell, Mark
+N00035390::Sheridan, Tim
+N00006897::Sherman, Brad
+N00036133::Sherow, Jim
+N00035965::Sherrell, Lenda
+N00035991::Shields, Ryan
+N00004961::Shimkus, John M
+N00036554::Shoemake, Shelley
+N00036040::Shogan, Stephen H
+N00013770::Shuster, Bill
+N00035499::Silverstein, Matt
+N00036396::Simonsen, Collin Robert
+N00036000::Simonson, Roxanne
+N00006263::Simpson, Mike
+N00033983::Sinema, Kyrsten
+N00036316::Sinner, George
+N00027523::Sires, Albio
+N00036821::Skalsky, George A
+N00036685::Skarin, Bruce
+N00001311::Slaughter, Louise M
+N00007833::Smith, Adam
+N00027623::Smith, Adrian
+N00026863::Smith, Bert
+N00028522::Smith, Bob
+N00009816::Smith, Chris
+N00035396::Smith, Glo
+N00035282::Smith, Jason
+N00036212::Smith, Jesse T
+N00001811::Smith, Lamar
+N00035801::Smith, Larry
+N00036846::Smith, Ruth
+N00036717::Smith, Scott
+N00035953::Smith, Tootie
+N00035034::Soffen, Scott
+N00035160::Solodow, Matthew
+N00031204::Southerland, Steve
+N00036825::Souza, Daniel K
+N00036530::Spain, Paul
+N00035883::Spangler, Tom
+N00036752::Spano, Alexander
+N00036339::Spees, Kristen
+N00029649::Speier, Jackie
+N00036535::Sperber, Joseph Jean
+N00036343::St John, Steve
+N00004118::Stabenow, Debbie
+N00034892::Stadler, Chuck
+N00033433::Stainfield, Tami
+N00006259::Stallings, Richard
+N00035151::Stanczak, James
+N00036226::Standiford, Debbie
+N00035523::Stefanik, Elise
+N00030479::Stein, Gary
+N00036646::Steinhardt, Allen Frank
+N00036804::Stephens, Barry D
+N00028039::Stepp, Ken
+N00036562::Stevenson, Will
+N00033932::Stewart, Chris
+N00036844::Stewart, Rick
+N00029574::Stivers, Steve
+N00035614::Stocker, Barbara Hamill
+N00005918::Stockman, Steve
+N00036639::Stockwell, Chris
+N00036242::Stokes, Steve
+N00001728::Stracuzzi, Natale
+N00036812::Strawcutter, Rick
+N00026322::Strickland, Tony
+N00036561::Strom, Jason
+N00036390::Strong, Zack
+N00035339::Strouse, Kevin
+N00030891::Stutzman, Marlin
+N00036789::Suitonu-Chapman, Meleagi
+N00035774::Sullivan, Dan
+N00034529::Sullivan, Mark
+N00033396::Sund, Sharon
+N00036236::Sundeen, Dakin
+N00036678::Swafford, Amanda
+N00033508::Swalwell, Eric
+N00036417::Swaney, Mark H
+N00036276::Swartout, David
+N00029432::Swift, Kat
+N00030465::Swing, Gary
+N00033798::Tacherra, Johnny
+N00036441::Tahiro, Mohammed Abbajebel
+N00035535::Takai, Mark
+N00006701::Takano, Mark
+N00036249::Tapia, Abel
+N00036534::Tarpley, Ed
+N00028727::Tatar, John
+N00035957::Taylor, Kerith Strano
+N00036334::Teijeiro, Annette
+N00035674::Tennant, Natalie
+N00005321::Terry, Lee
+N00027605::Tester, Jon
+N00030211::Theron, Peter
+N00035889::Thomas, Charles (Trey)
+N00036718::Thomas, Dave
+N00003288::Thompson, Bennie G
+N00029736::Thompson, Glenn
+N00036855::Thompson, Lee
+N00036364::Thompson, Linda
+N00007419::Thompson, Mike
+N00006052::Thornberry, Mac
+N00036745::Thorne, Robert
+N00035587::Thorsland, Eric
+N00004572::Thune, John
+N00035747::Tibbs, David
+N00009699::Tiberi, Patrick J
+N00000226::Tierney, John F
+N00035340::Tilghman, Bill
+N00035492::Tillis, Thom
+N00034027::Tillman, Jimmy Lee
+N00027509::Tipton, Scott
+N00036470::Tiscornia, Jude Anthony
+N00033812::Tisei, Richard
+N00030191::Titus, Dina
+N00032169::Tobin, Andy
+N00036721::Tomaszewski, Scot John
+N00030196::Tonko, Paul
+N00001489::Toomey, Pat
+N00036107::Torres, Norma
+N00035760::Tottenham, Philip
+N00036652::Trammell, Jack
+N00031133::Trivedi, Manan
+N00036369::Troiano, Nicholas Robert
+N00035607::Trott, Dave
+N00034930::Trout, W Michael (Mike)
+N00028830::Trudell, Jerry
+N00036392::Tryon, Stephen P
+N00029026::Tsongas, Niki
+N00007638::Tuika, Tuika
+N00036788::Tulafono, Togiola
+N00028444::Turk, Jacob
+N00025175::Turner, Michael R
+N00036463::Tyler, Rick
+N00035937::Tyszkiewicz, Marek
+N00008051::Udall, Mark
+N00006561::Udall, Tom
+N00036787::Ude, Mark
+N00036377::Umbaugh, Kevin Robert
+N00004133::Upton, Fred
+N00033367::Valadao, David
+N00013820::Van Hollen, Chris
+N00036827::Vance, Donald L
+N00036381::Vance, Dwayne A
+N00035900::Vanderstelt, Dean
+N00032311::Vandeven, Rick
+N00007021::Vargas, Juan
+N00036144::Vaughn, Carrogan
+N00036010::Veach, Rodney
+N00035969::Veasaw, James B
+N00033839::Veasey, Marc
+N00034451::Vein, Jim
+N00034349::Vela, Filemon
+N00001102::Velazquez, Nydia M
+N00035720::Venuti, Joe
+N00003813::Visclosky, Pete
+N00009659::Vitter, David
+N00036779::Vivoni, Miguel Hernandez
+N00035799::Vogel, David Donald
+N00034515::Vohra, Arvin
+N00036851::Waddell, David
+N00031883::Wade, Kevin
+N00035207::Wager, Michael
+N00033106::Wagner, Ann L
+N00036849::Wahmoff, Chris
+N00035424::Wakefield, Margie
+N00026368::Walberg, Tim
+N00007690::Walden, Greg
+N00036548::Walhgren, Sharna
+N00035311::Walker, Bradley
+N00036691::Walker, Clayton G
+N00036675::Walker, Thom M
+N00024108::Walkowicz, Gary
+N00033288::Wallace, Dave
+N00030975::Wallace, Eric M
+N00036551::Walley, Lajena
+N00031226::Walorski, Jackie
+N00035686::Walsh, John
+N00035568::Walsh, Martin H
+N00036531::Walters, Alejandro M
+N00035391::Walters, Mimi
+N00027467::Walz, Timothy J
+N00035514::Ward, Rick
+N00002097::Warner, Mark
+N00033492::Warren, Elizabeth
+N00026620::Washer, Barbara Dale
+N00006690::Waters, Maxine
+N00036202::Watson, Todd
+N00001861::Waxman, Henry
+N00036764::Waymire, William Jr
+N00033539::Weber, Randy
+N00026335::Webster, Daniel
+N00036813::Weeks, James II
+N00036054::Weh, Allen
+N00035784::Wehby, Monica
+N00004578::Weiland, Rick
+N00034252::Weisser, Mikel
+N00036293::Welborn, Roy
+N00000515::Welch, Peter
+N00036807::Welch, Ronald II
+N00030480::Welzer, Steven
+N00033310::Wenstrup, Brad
+N00036352::Weppner, Kathleen
+N00035527::Westerman, Bruce
+N00036030::Westlund, Kelly
+N00026163::Westmoreland, Lynn A
+N00035904::Westrom, Torrey
+N00035709::Whallon, Andrew
+N00034249::Wharton, Scott
+N00036252::Wheeler, Marihelen
+N00035988::Whelan, Jennifer
+N00035735::White Wolf, Shawn
+N00027421::White, Will Tyler
+N00027533::Whitehouse, Sheldon
+N00003467::Whitfield, Ed
+N00036636::Whitney, Lenar
+N00036113::Wichern, Mark
+N00003280::Wicker, Roger
+N00029769::Wieder, John
+N00035762::Wiegmann, Matthew
+N00035862::Wight, Thomas
+N00026737::Wildman, Andrew Jaye
+N00036327::Wilkinson, Anthony
+N00036225::Willhite, Brian
+N00036829::Williams, Eric Lemonte
+N00035680::Williams, Peter
+N00030602::Williams, Roger
+N00036619::Williamson, John W
+N00036843::Willoughby, Donald
+N00036440::Wilmoth, Joe B
+N00035834::Wilske, Larry
+N00030650::Wilson, Frederica
+N00024809::Wilson, Joe
+N00036136::Wilt, Bill
+N00036467::Winton, Mike
+N00030000::Wise, Scott
+N00035696::Witt, James Lee
+N00029459::Wittman, Rob
+N00036638::Wofford, Ann
+N00002073::Wolf, Frank
+N00031857::Womack, Steve
+N00036386::Wonnacott, Brian
+N00036510::Wood, John Jr
+N00032416::Woodall, Rob
+N00036213::Woods, James Issac
+N00036606::Woods, Ray
+N00036163::Woolf, Aaron
+N00036630::Wright, Ed
+N00035689::Wright, Erick
+N00036301::Wright, Paul
+N00007724::Wyden, Ron
+N00028073::Yarmuth, John A
+N00035951::Yates, Jason
+N00031502::Yoder, Kevin
+N00033220::Yoho, Ted
+N00035509::Young, David
+N00007999::Young, Don
+N00034715::Young, Herschel
+N00030670::Young, Todd
+N00035569::Ytterberg, Don
+N00029887::Zaccaria, Mark
+N00027934::Zamora, Eddie
+N00029404::Zeldin, Lee
+N00033127::Zerban, Rob
+N00036358::Zetzer, Mark
+N00030451::Zimmer, George
+N00035616::Zinke, Ryan K
+N00035217::Abbott, Richard Allen IV
+N00035490::Abeler, Jim
+N00035451::Adams, Alma
+N00035446::Adams, Danielle
+N00035389::Adams, Steve
+N00003028::Aderholt, Robert B
+N00009888::Alexander, Lamar
+N00025464::Alexander, Rodney
+N00031938::Amash, Justin
+N00031177::Amodei, Mark
+N00035400::Andel, Ellen
+N00035408::Anderson, Ikaika
+N00035343::Anderson, Quentin
+N00000826::Andrews, Robert E
+N00035414::Appel, Staci
+N00035297::Arkoosh, Val
+N00034703::Armstrong, Brandon Christina
+N00035259::Arterburn, Tony Edward Jr
+N00034426::Assad, Mike
+N00007089::Baca, Joe
+N00027493::Bachmann, Michele
+N00008091::Bachus, Spencer
+N00035528::Bailey, Bill
+N00035345::Balkema, Chris
+N00033981::Barber, Ron
+N00035310::Barfield, Jonathan
+N00025495::Barletta, Lou
+N00034885::Barnhart, Scott J
+N00031233::Barr, Andy
+N00002526::Barr, Bob
+N00026080::Barrow, John
+N00005656::Barton, Joe
+N00031877::Bass, Karen
+N00035448::Battle, George III
+N00035475::Baumgardner, Randy
+N00035341::Bayne, Ian L
+N00035225::Beale, Anthony A
+N00033904::Beatty, Joyce
+N00009774::Becerra, Xavier
+N00032702::Becker, Francis X Jr
+N00029901::Begich, Mark
+N00031934::Benishek, Dan
+N00035438::Benson, Mike
+N00033625::Bentivolio, Kerry
+N00030717::Bera, Ami
+N00035538::Bevin, Matt
+N00035303::Bey, Curtiss
+N00031747::Bielat, Sean
+N00027462::Bilirakis, Gus
+N00025292::Bishop, Rob
+N00002674::Bishop, Sanford
+N00025413::Bishop, Timothy H
+N00031539::Black, Diane
+N00003105::Blackburn, Marsha
+N00032969::Blandford, Keith
+N00033744::Blum, Rod
+N00007727::Blumenauer, Earl
+N00028608::Blyth, John
+N00029161::Boccieri, John A
+N00003675::Boehner, John
+N00035466::Bolger, Richard
+N00033474::Bonamici, Suzanne
+N00033342::Bongino, Dan
+N00035398::Bonilla, Jorge
+N00025330::Bonner, Jo
+N00035267::Booker, Cory
+N00024866::Bordallo, Madeleine Z
+N00035420::Bost, Mike
+N00035244::Bostic, Curtis
+N00035500::Bosworth, Annette
+N00026595::Boustany, Charles W Jr
+N00035465::Bowden, Craig
+N00035307::Boyle, Brendan
+N00005883::Brady, Kevin
+N00001619::Brady, Robert A
+N00027464::Braley, Bruce
+N00035365::Brandon, Marcus
+N00035371::Brannon, Greg
+N00033532::Bridenstine, James
+N00035322::Brikho, George
+N00030910::Brooks, Mo
+N00033495::Brooks, Susan
+N00028986::Broun, Paul
+N00002713::Brown, Corrine
+N00034254::Brownley, Julia
+N00035275::Brownsberger, Will
+N00035231::Brutus, Otto Patrick
+N00035251::Bryant, Ric
+N00027626::Buchanan, Vernon
+N00031227::Bucshon, Larry
+N00025219::Burgess, Michael
+N00035249::Busch, Elizabeth Colbert
+N00035518::Bussler, Jim
+N00033390::Bustos, Cheri
+N00027035::Butterfield, G K
+N00035380::Byrne, Bradle
+N00035436::Byrnes, Pam
+N00035433::Cain, Emily
+N00033255::Callahan, Mark
+N00035362::Callis, Ann
+N00007099::Calvert, Ken
+N00008086::Camp, Dave
+N00027565::Campbell, John
+N00035515::Cannon, Jerry
+N00013131::Cantor, Eric
+N00009771::Capito, Shelley Moore
+N00007232::Capps, Lois
+N00000267::Capuano, Michael E
+N00033373::Cardenas, Tony
+N00030736::Carney, John
+N00035287::Carr, Joe
+N00029513::Carson, Andre
+N00035346::Carter, Buddy
+N00002659::Carter, Darwin
+N00025095::Carter, John
+N00034128::Cartwright, Matt
+N00035325::Casey, Nick
+N00030754::Cash, Richard J
+N00030245::Cassidy, Bill
+N00027514::Castor, Kathy
+N00033316::Castro, Joaquin
+N00003689::Chabot, Steve
+N00028958::Chaffetz, Jason
+N00035224::Chang, Stanley
+N00035406::Chapman, Jeff
+N00035504::Cheney, Liz
+N00035387::Chew, Robin Leo
+N00035326::Cho, Roy
+N00033246::Choi, Jun
+N00000133::Christian-Christensen, Donna
+N00030600::Chu, Judy
+N00032019::Cicilline, David
+N00035278::Clark, Katherine
+N00026961::Clarke, Yvette D
+N00012460::Clay, William L Jr
+N00026790::Cleaver, Emanuel
+N00035306::Clemens, Peter
+N00035238::Clements, Paul Colin
+N00035482::Clovis, Sam
+N00002408::Clyburn, James E
+N00002247::Coble, Howard
+N00035426::Coblenz, Michael
+N00003328::Cochran, Thad
+N00024753::Coffman, Mike
+N00015884::Cohen, Mark
+N00003225::Cohen, Steve
+N00025726::Cole, Tom
+N00001285::Collins, Chris
+N00033518::Collins, Doug
+N00035370::Collins, Mike
+N00000491::Collins, Susan M
+N00035536::Colon, Henry
+N00026041::Conaway, Mike
+N00035348::Condley, Kerri
+N00029891::Connolly, Gerry
+N00004029::Conyers, John Jr
+N00034224::Cook, Paul
+N00035430::Coombes, Mike
+N00003132::Cooper, Jim
+N00035056::Corey, Matthew
+N00024852::Cornyn, John
+N00026341::Costa, Jim
+N00033363::Cotton, Tom
+N00024842::Courtney, Joe
+N00035208::Cox, David
+N00028137::Coyne, John F III
+N00035220::Coyne, Paul H Jr
+N00035439::Craft, Tom
+N00004614::Cramer, Kevin
+N00030770::Crawford, Rick
+N00012739::Crenshaw, Ander 
+N00025648::Crim, Larry R
+N00001127::Crowley, Joseph
+N00024978::Cuellar, Henry
+N00009738::Culberson, John
+N00001971::Cummings, Elijah E
+N00035403::Curbelo, Carlos
+N00033054::Daines, Steven
+N00035411::Dandekar, Swati
+N00004884::Davis, Danny K
+N00034784::Davis, Rodney
+N00035321::Davis, Susan
+N00009604::Davis, Susan A
+N00033328::Day, Tim
+N00007781::DeFazio, Peter
+N00033168::Defranco, Marisa
+N00006134::DeGette, Diana
+N00035415::Delacerda, Gabriel
+N00033897::Delaney, John K
+N00000615::DeLauro, Rosa L
+N00030693::DelBene, Suzan
+N00035392::Demaio, Carl
+N00031593::Denham, Jeff
+N00026171::Dent, Charlie
+N00035222::Denton, James F Jr
+N00035539::Depasquale, Robert
+N00034746::DeSantis, Ron
+N00030957::Desjarlais, Scott
+N00031317::Deutch, Ted
+N00025337::Diaz-Balart, Mario
+N00035375::Dietz, Matt
+N00035374::Dietzel, Paul
+N00034429::Dilan, Erik Martin
+N00001783::Dingell, John D
+N00006023::Doggett, Lloyd
+N00035401::Domino, Carl
+N00035272::Douglas, John F
+N00001373::Doyle, Mike
+N00033881::Drummond, William "Cleave" II
+N00027860::Duckworth, Tammy
+N00030967::Duffy, Sean P
+N00035294::Duke, Greg
+N00030752::Duncan, Jeff
+N00003209::Duncan, John J Jr
+N00035242::Dunec, Mark S
+N00035260::Dunn, Matt
+N00004981::Durbin, Dick
+N00035221::Eagleton, Clifford J
+N00035519::Earle, Beverly
+N00035496::Eck, Alieta
+N00035299::Eckles, Shawn
+N00035315::Edmunds, Champ
+N00028249::Edwards, Donna
+N00035313::Eggman, Michael
+N00035235::Eidenberg, Alexandra
+N00035335::Elder, Bruce
+N00035243::Eldridge, Sean
+N00028257::Ellison, Keith
+N00031513::Ellmers, Renee
+N00035266::Embler, Terry
+N00031194::Emken, Elizabeth
+N00035440::Emmer, Tom
+N00035453::Endean-Singh, Leslie
+N00001003::Engel, Eliot L
+N00035402::Enright, Jean
+N00035309::Enyart, Douglas
+N00034884::Enyart, William
+N00006249::Enzi, Mike
+N00035483::Ernst, Joni
+N00007335::Eshoo, Anna
+N00035409::Espero, Will
+N00033217::Esty, Elizabeth
+N00035219::Etienne, Michael A
+N00007632::Faleomavaega, Eni F H
+N00035462::Faparusi, Yomi
+N00031672::Farenthold, Blake
+N00007312::Farr, Sam
+N00001746::Fattah, Chaka
+N00035423::Fecteau, Brian
+N00035230::Fenton, Ernest B
+N00035382::Fincher, Chad
+N00031141::Fincher, Steve
+N00027229::Fitzpatrick, Michael G
+N00035522::Fjeld, Laura
+N00030815::Fleischmann, Chuck
+N00029679::Fleming, John
+N00031545::Flores, Bill
+N00013799::Forbes, Randy
+N00026631::Fortenberry, Jeff
+N00029139::Foster, Bill
+N00026166::Foxx, Virginia
+N00002893::Frankel, Lois J
+N00029016::Franken, Al
+N00006423::Franks, Trent
+N00035223::Freeman, April
+N00000684::Frelinghuysen, Rodney
+N00030490::Fudge, Marcia L
+N00033281::Gabbard, Tulsi
+N00033541::Gallego, Pete
+N00035324::Gamble, Venice Jaymes II
+N00030856::Garamendi, John
+N00029908::Garcia, Joe
+N00035548::Garcia, Juan
+N00030780::Gardner, Cory
+N00035437::Garrett, Mykale
+N00000743::Garrett, Scott
+N00035457::Garrison, Jennifer
+N00035525::Geddes, Gerald
+N00035357::George, Robert Wilburn
+N00025025::Gerlach, Jim
+N00035376::Gerrard, Gary
+N00031128::Gibbs, Bob
+N00031998::Gibson, Chris
+N00035546::Gilbert, Joe
+N00024760::Gingrey, Phil
+N00035202::Glover, Kevin
+N00026182::Goberman, Pavel
+N00026148::Gohmert, Louis B Jr
+N00035422::Gollin, George
+N00035276::Gomez, Gabriel
+N00009154::Goodlatte, Bob
+N00030993::Goodwin, Loraine
+N00030771::Gosar, Paul
+N00035458::Gottesman, Russ
+N00030880::Gowdy, Trey
+N00009975::Graham, Lindsey
+N00035449::Graham, Malcolm
+N00008799::Granger, Kay
+N00035530::Grant, Heather
+N00013323::Graves, Sam
+N00030788::Graves, Tom
+N00028418::Grayson, Alan
+N00035476::Grayson, Derrick
+N00026686::Green, Al
+N00005870::Green, Gene
+N00009743::Greene, Mark
+N00031297::Griffin, Tim
+N00032029::Griffith, Morgan
+N00035385::Griffith, Wells
+N00025284::Grijalva, Raul M
+N00035486::Grimes, Alison
+N00031401::Grimm, Michael
+N00029400::Grisham, Michelle Lujan
+N00012492::Grooms, Larry
+N00032386::Guild, Tom
+N00029675::Guthrie, Brett
+N00004874::Gutierrez, Luis V
+N00029617::Hagan, Kay R
+N00006806::Hahn, Janice
+N00035197::Hall, Heidi
+N00035384::Hall, James
+N00005645::Hall, Ralph M
+N00035395::Halter, Irving Jr
+N00035461::Halvorson, Art
+N00029377::Halvorson, Deborah
+N00025881::Hanabusa, Colleen
+N00035477::Handel, Karen
+N00030197::Hanna, Richard
+N00035421::Harold, Erika
+N00029632::Harper, Gregg
+N00029147::Harris, Andy
+N00035491::Harris, Mark
+N00035300::Harris, Matthew
+N00035201::Harris, Napoleon B III
+N00031005::Hartzler, Vicky
+N00002884::Hastings, Alcee L
+N00009157::Hastings, Doc
+N00035228::Haynes, Gregory
+N00035356::Hays, Elaine
+N00031557::Heck, Dennis
+N00031244::Heck, Joe
+N00024922::Hensarling, Jeb
+N00035319::Heos, Richard Alfred
+N00031559::Herrera Beutler, Jaime
+N00032243::Hice, Jody B
+N00027060::Higgins, Brian M
+N00035474::Hill, Owen
+N00035503::Hill, Shak
+N00035379::Hillyer, Quin
+N00029070::Himes, Jim
+N00006008::Hinojosa, Ruben
+N00035312::Hinz, Janet
+N00035359::Hobbs, Rudy
+N00035298::Hodges, Steve
+N00035248::Hoffman, Jonathan
+N00033399::Holding, George
+N00000860::Holt, Rush
+N00012611::Honda, Mike
+N00033638::Horsford, Steven
+N00035279::Hounshell, Andy
+N00001821::Hoyer, Steny H
+N00033630::Hudson, Richard
+N00027649::Huelskamp, Tim
+N00033030::Huffman, Jared
+N00033426::Hughes, Andrew
+N00030673::Huizenga, Bill
+N00031104::Hultgren, Randy
+N00029258::Hunter, Duncan D
+N00031417::Hurd, Will
+N00031265::Hurt, Robert
+N00035214::Hutchinson, Toi
+N00035237::Imholt, Tim
+N00005582::Inhofe, James M
+N00035301::Inman, J Mark
+N00013345::Israel, Steve
+N00007017::Issa, Darrell
+N00005818::Jackson Lee, Sheila
+N00035434::Jackson, Troy
+N00035381::James, Jessica
+N00035472::Jaramillo, John
+N00035342::Jarvis, B Stefan
+N00033640::Jeffries, Hakeem
+N00035531::Jenkins, Evan
+N00029077::Jenkins, Lynn
+N00035425::Jensen, Elisabeth
+N00032088::Johnson, Bill
+N00035404::Johnson, Bob
+N00008122::Johnson, Eddie Bernice
+N00027848::Johnson, Hank
+N00008028::Johnson, Sam
+N00035227::Jonathan, Victor
+N00031566::Jones, LeAlan M
+N00002299::Jones, Walter B Jr
+N00027894::Jordan, Jim
+N00035393::Jorgensen, Kirk
+N00035007::Joyce, David P
+N00035412::Kajtazovic, Anesa
+N00003522::Kaptur, Marcy
+N00031933::Keating, Bill
+N00031647::Kelly, Mike
+N00035215::Kelly, Robin
+N00034044::Kennedy, Joe III
+N00033395::Kildee, Dan
+N00034453::Kilmer, Derek
+N00035205::Kimber, James
+N00004403::Kind, Ron
+N00035246::King, Jeff
+N00025630::King, Karl
+N00001193::King, Pete
+N00025237::King, Steven A
+N00002656::Kingston, Jack
+N00030667::Kinzinger, Adam
+N00029260::Kirkpatrick, Ann
+N00004436::Kline, John
+N00035454::Kohn, Erin Bilbray
+N00033080::Konetchy, Peter
+N00032568::Koniz, Gary
+N00035429::Koutoujian, Peter
+N00031092::Krause, John E
+N00027496::Krinkie, Phil
+N00035349::Kubba, Sam
+N00033059::Kuchar, Frank
+N00035269::Kuhn, John
+N00035274::Kurzon, Jeff
+N00030875::Kuster, Ann Mclane
+N00031377::Labrador, Raul
+N00035355::Laeke, Abel Gebre
+N00035264::Lafley, Stephen
+N00033987::LaMalfa, Doug
+N00028133::Lamborn, Douglas L
+N00000898::Lance, Leonard
+N00035488::Land, Terri Lynn
+N00035021::Landrieu, Gary
+N00005395::Landrieu, Mary L
+N00035467::Lane, Charlotte
+N00009724::Langevin, Jim
+N00031129::Lankford, James
+N00035252::Larkin, Tim
+N00035271::Larose, Joe
+N00009759::Larsen, Rick
+N00000575::Larson, John B
+N00004227::Latham, Tom
+N00012233::Latta, Robert E
+N00035141::Lavergne, Eugene
+N00035291::Lawson, Brent
+N00035314::Leach, Daylin
+N00035334::Leach, Ron
+N00008046::Lee, Barbara
+N00034995::Lee, Johnny
+N00035383::Leflore, Burton
+N00035368::Lemasters, Rick
+N00034024::Levene, Allan
+N00003950::Levin, Sander
+N00002577::Lewis, John
+N00035059::Lewis, Marcus
+N00035295::Lieberman, Richard
+N00035364::Lilienthal, Sal
+N00035258::Limehouse, Chip
+N00035502::Lind, Howie
+N00035328::Lindsey, Ed
+N00027239::Lipinski, Daniel
+N00000851::LoBiondo, Frank A
+N00027741::Loebsack, David
+N00035413::Lofgren, Mark
+N00007479::Lofgren, Zoe
+N00035511::Lonegan, Steve
+N00030676::Long, Billy
+N00035347::Loudermilk, Barry
+N00035206::Loveless, Joshua A
+N00033274::Lowenthal, Alan
+N00001024::Lowey, Nita M
+N00031582::Lowry, Robert
+N00005559::Lucas, Frank D
+N00030026::Luetkemeyer, Blaine
+N00029562::Lujan, Ben R
+N00029788::Lummis, Cynthia Marie
+N00013855::Lynch, Stephen F
+N00035285::MacDougall, Ed
+N00035540::Maciariello, Patrick
+N00035213::Mack, Stanley
+N00027891::Maffei, Dan
+N00033138::Magee, Erin Kent
+N00020086::Maguire, Andy
+N00034575::Malagisi, Michael P
+N00000078::Maloney, Carolyn B
+N00034277::Maloney, Sean Patrick
+N00035487::Maness, Rob
+N00026710::Marchant, Kenny
+N00035463::Marchbanks, Neal
+N00035543::Marchese, Joel
+N00001555::Margolies, Marjorie
+N00031777::Marino, Tom
+N00000270::Markey, Ed
+N00032264::Marksberry, Ed
+N00035236::Marselus, Reggie
+N00035510::Martin, Andy
+N00034041::Massie, Thomas
+N00035283::Mather, Joshua Pike
+N00009753::Matheson, Jim
+N00027459::Matsui, Doris O
+N00035209::McAllister, Lenny
+N00035273::McCall, Brian Matthew
+N00001148::McCarthy, Carolyn
+N00028152::McCarthy, Kevin
+N00026460::McCaul, Michael
+N00035304::McClelland, Erin
+N00006863::McClintock, Tom
+N00012942::McCollum, Betty
+N00003389::McConnell, Mitch
+N00035245::McCoy, Peter
+N00009829::McDermott, Jim
+N00035489::McFadden, Mike
+N00035331::McGeehan, Pat
+N00000179::McGovern, James P
+N00026627::McHenry, Patrick
+N00002356::McIntyre, Mike
+N00035397::McKenna, Michael
+N00006882::McKeon, Buck
+N00031681::McKinley, David
+N00035234::McKinley, Paul
+N00035494::McLeay, Bart
+N00033509::McLeod, Gloria
+N00035329::McMichael, Craig Bradley
+N00034856::McMillan, Jaime
+N00026314::McMorris Rodgers, Cathy
+N00026926::McNerney, Jerry
+N00033631::Meadows, Mark R
+N00031134::Meehan, Patrick
+N00001171::Meeks, Gregory W
+N00035338::Mehring, Sona
+N00035498::Meissner, Stuart
+N00034547::Meng, Grace
+N00035352::Mensing, Dale Kenneth
+N00029303::Merkley, Jeff
+N00012546::Messer, Luke
+N00035308::Meyer, Ron
+N00035513::Meyers, Victor
+N00035290::Meynardie, Kevin
+N00002793::Mica, John L
+N00024770::Michaud, Mike
+N00009795::Miller, Candice S
+N00006954::Miller, Gary
+N00007390::Miller, George
+N00013846::Miller, Jeff
+N00035443::Mills, Stewart
+N00035464::Minor, Louie
+N00035253::Moffly, Elizabeth
+N00035533::Moll, Thomas
+N00035508::Mooney, Alex
+N00033814::Mooney, Alex
+N00026914::Moore, Gwen
+N00035447::Moore, Rodney
+N00002083::Moran, Jim
+N00035212::Morel, Emmanuel G
+N00035431::Moulton, Seth
+N00035416::Mowrer, Jim
+N00035545::Mrozinski, Larry
+N00035232::Muhammad, Fatimah N
+N00033410::Mullin, Markwayne
+N00031412::Mulvaney, Mick
+N00035289::Murphy, Pat
+N00033091::Murphy, Patrick
+N00024992::Murphy, Tim
+N00000939::Nadler, Jerrold
+N00006789::Napolitano, Grace
+N00035255::Nash, Ray
+N00035377::Naughton, Shaughnessy
+N00000153::Neal, Richard E
+N00035336::Nestande, Brian
+N00031469::Netherwood, Ray
+N00026043::Neugebauer, Randy
+N00032022::Noem, Kristi
+N00021207::Nolan, Rick
+N00033875::Norris, Phil
+N00001692::Norton, Eleanor Holmes
+N00032441::Nugent, Richard
+N00007248::Nunes, Devin
+N00035480::Nunn, Michelle
+N00031006::Nunnelee, Alan
+N00035452::O'Brien, Bill
+N00004243::O'brien, David
+N00033540::O'Rourke, Beto
+N00009638::Obama, Barack
+N00035495::Oliver, Sheila
+N00035096::Olivera, Pablo
+N00029285::Olson, Pete
+N00035529::Ortman, Julianne
+N00035493::Osborn, Shane
+N00035450::Osborne, Curtis
+N00035277::Overby, Lucas
+N00031011::Owens, Bill
+N00035302::Pahlke, Liz
+N00031958::Palazzo, Steven
+N00000781::Pallone, Frank Jr
+N00035427::Palumbo, Joe
+N00000751::Pascrell, Bill Jr
+N00006397::Pastor, Ed
+N00035247::Patrick, Andy
+N00035459::Patton, Daniel Manuel
+N00029391::Paulsen, Erik
+N00034436::Pavilack, Harold
+N00034639::Payne, Donald M Jr
+N00012672::Pearce, Steve
+N00035441::Pederson, John
+N00007360::Pelosi, Nancy
+N00035386::Percefull, Janis K
+N00035516::Perdue, David
+N00035512::Perkins, Jo Rae
+N00027510::Perlmutter, Edwin G
+N00034120::Perry, Scott
+N00029277::Peters, Gary
+N00033591::Peters, Scott
+N00004558::Peterson, Collin
+N00004426::Petri, Tom
+N00013817::Pingree, Chellie
+N00035254::Pinkston, Shawn
+N00034416::Pittenger, Robert
+N00001633::Pitts, Joe
+N00035378::Platt, Carol
+N00033549::Pocan, Mark
+N00026457::Poe, Ted
+N00029127::Polis, Jared
+N00030744::Pompeo, Mike
+N00035468::Poore, Meshea
+N00029662::Posey, Bill
+N00035520::Powe, Sharon
+N00034667::Powelson, Michael
+N00035323::Powers, Amos Scott
+N00002260::Price, David
+N00026160::Price, Tom
+N00035407::Pridemore, Tricia
+N00035455::Prues, Jim
+N00013823::Pryor, Mark
+N00030581::Quigley, Mike
+N00035542::Quinones, Issac II
+N00034017::Radel, Trey
+N00035358::Radulovacki, Branko
+N00002198::Rahall, Nick
+N00000964::Rangel, Charles B
+N00027686::Rathje, Steve
+N00035204::Raths, Greg
+N00035229::Rayburn, Charles
+N00029405::Recchia, Domenic
+N00000362::Reed, Jack
+N00030949::Reed, Tom
+N00035537::Reese, Brandon Rex
+N00026885::Reichert, Dave
+N00035233::Reid, Beverly E
+N00031127::Renacci, Jim
+N00035363::Reyes, Eloise Gomez
+N00004881::Reynolds, Mel
+N00035501::Rhoden, Larry
+N00030968::Ribble, Reid
+N00033832::Rice, Tom
+N00035361::Richards, Ronny
+N00030184::Richmond, Cedric
+N00030962::Rigell, Scott
+N00029441::Risch, James E
+N00035547::Riser, Neil
+N00035419::Robbins, Craig
+N00035354::Roberts, Boyd
+N00005285::Roberts, Pat
+N00035337::Robertson, Martha
+N00013142::Robinson, Jack E
+N00035478::Robinson, Todd Anthony
+N00030768::Roby, Martha
+N00028463::Roe, Phil
+N00003473::Rogers, Hal
+N00009668::Rogers, Mike
+N00024759::Rogers, Mike D
+N00007151::Rohrabacher, Dana
+N00031741::Rokita, Todd
+N00029018::Rooney, Tom
+N00002858::Ros-Lehtinen, Ileana
+N00034472::Rose, Bobbie
+N00035517::Rosendale, Matt
+N00004719::Roskam, Peter
+N00030645::Ross, Dennis
+N00035344::Rothblatt, Gabriel
+N00031253::Rothfus, Keith J
+N00035187::Rounds, Mike
+N00006671::Roybal-Allard, Lucille
+N00008264::Royce, Ed
+N00035507::Ruiz, Jose
+N00032576::Ruiz, Nicholas III
+N00033510::Ruiz, Raul
+N00031632::Rullo, Joe
+N00031988::Runyan, Jon
+N00025482::Ruppersberger, Dutch
+N00004887::Rush, Bobby L
+N00004357::Ryan, Paul
+N00025280::Ryan, Tim
+N00035497::Sabas, Antonio
+N00030418::Sablan, Gregorio
+N00035318::Saidel, Jonathan
+N00006446::Salmon, Matt
+N00035068::Salvette, Emily
+N00024870::Sanchez, Linda
+N00008274::Sanchez, Loretta
+N00002424::Sanford, Mark
+N00027751::Sarbanes, John
+N00035544::Sasse, Ben
+N00009660::Scalise, Steve
+N00035484::Schaben, Scott
+N00004724::Schakowsky, Jan
+N00028138::Schatz, Brian
+N00009585::Schiff, Adam
+N00000596::Schlesinger, Alan
+N00035317::Schnackenberg, Matt
+N00033101::Schneider, Brad
+N00029273::Schock, Aaron
+N00032232::Schonberg, Steve
+N00034723::Schooley, Travis
+N00030071::Schrader, Kurt
+N00026106::Schultz, Debbie Wasserman
+N00035405::Schwarz, David
+N00006460::Schweikert, David
+N00035270::Sciortino, Carl
+N00032457::Scott, Austin
+N00002147::Scott, Bobby
+N00024871::Scott, David
+N00031782::Scott, Tim
+N00035396::Scurry-Smith, Gloreatha
+N00035028::Seaman, David
+N00035350::Seeley, David
+N00035332::Senger, Darlene
+N00004291::Sensenbrenner, F James Jr
+N00001813::Serrano, Jose E
+N00003062::Sessions, Jeff
+N00005681::Sessions, Pete
+N00030622::Sewell, Terri A
+N00035284::Shaffer, James Alexander
+N00024790::Shaheen, Jeanne
+N00028091::Shea-Porter, Carol
+N00035456::Sheil, John
+N00035327::Sheldon, Donna
+N00035390::Sheridan, Tim
+N00006897::Sherman, Brad
+N00035286::Sherzan, Mike
+N00004961::Shimkus, John M
+N00013770::Shuster, Bill
+N00035460::Si, Tae
+N00035499::Silverstein, Matt
+N00035394::Simon, Fred J Jr
+N00006263::Simpson, Mike
+N00033604::Simpson, Stephen
+N00033983::Sinema, Kyrsten
+N00027523::Sires, Albio
+N00035442::Sivarajah, Rhonda
+N00034685::Slantz, Bill
+N00001311::Slaughter, Louise M
+N00007833::Smith, Adam
+N00027623::Smith, Adrian
+N00035432::Smith, Alden
+N00035417::Smith, Bryan
+N00009816::Smith, Chris
+N00035282::Smith, Jason
+N00001811::Smith, Lamar
+N00031204::Southerland, Steve
+N00029649::Speier, Jackie
+N00035428::Spilka, Karen
+N00035524::Stackhouse, Ed
+N00035320::Stamper, Jay
+N00035280::Stapleton, Corey C
+N00035521::Starbuck, Lorenzo
+N00035523::Stefanik, Elise
+N00033932::Stewart, Chris
+N00035353::Stiles, Larry
+N00029574::Stivers, Steve
+N00035351::Stockdale, David S
+N00005918::Stockman, Steve
+N00029494::Stone, John
+N00035339::Strouse, Kevin
+N00030891::Stutzman, Marlin
+N00012600::Sullivan, Mike
+N00033508::Swalwell, Eric
+N00035268::Sweeney, Steve M
+N00035535::Takai, Mark
+N00006701::Takano, Mark
+N00033575::Taylor, James Henry
+N00005321::Terry, Lee
+N00035534::Testerman, Karen
+N00035241::Thigpen, Jason
+N00003288::Thompson, Bennie G
+N00029736::Thompson, Glenn
+N00007419::Thompson, Mike
+N00012933::Thoney, Roger
+N00006052::Thornberry, Mac
+N00009699::Tiberi, Patrick J
+N00000226::Tierney, John F
+N00035340::Tilghman, Bill
+N00035492::Tillis, Thom
+N00035388::Tillman, Danny
+N00027509::Tipton, Scott
+N00030191::Titus, Dina
+N00030196::Tonko, Paul
+N00031538::Tracy, Jim
+N00035473::Treadwell, Mead
+N00035485::Truax, Doug
+N00029026::Tsongas, Niki
+N00025175::Turner, Michael R
+N00035257::Turner, Teddy
+N00008051::Udall, Mark
+N00006561::Udall, Tom
+N00004133::Upton, Fred
+N00033367::Valadao, David
+N00013820::Van Hollen, Chris
+N00007021::Vargas, Juan
+N00034947::Vaux, Morgan John
+N00033839::Veasey, Marc
+N00034349::Vela, Filemon
+N00001102::Velazquez, Nydia M
+N00035410::Vernon, Monica
+N00034985::Victor, Marc
+N00003813::Visclosky, Pete
+N00035399::Vivaldi, Peter
+N00035330::Vogt, Dave
+N00035207::Wager, Michael
+N00035200::Wagie, David
+N00033106::Wagner, Ann L
+N00035424::Wakefield, Margie
+N00026368::Walberg, Tim
+N00007690::Walden, Greg
+N00035311::Walker, Bradley
+N00030975::Wallace, Eric M
+N00031226::Walorski, Jackie
+N00035305::Walter, Andrew
+N00035391::Walters, Mimi
+N00027467::Walz, Timothy J
+N00035514::Ward, Rick
+N00002097::Warner, Mark
+N00026054::Washington, Joyce
+N00006690::Waters, Maxine
+N00002328::Watt, Melvin L
+N00001861::Waxman, Henry A
+N00035445::Webb, Don
+N00033539::Weber, Randy
+N00026335::Webster, Daniel
+N00004578::Weiland, Rick
+N00000515::Welch, Peter
+N00035532::Welch, Richard
+N00033310::Wenstrup, Brad
+N00035316::Westbrook, Corry
+N00035527::Westerman, Bruce
+N00026163::Westmoreland, Lynn A
+N00035481::Whitaker, Matt
+N00003467::Whitfield, Ed
+N00035360::Whitney, Bryan
+N00027253::Wildes, Michael
+N00035435::Willette, Alex
+N00025221::Williams, Anthony W
+N00035293::Williams, Chase
+N00035418::Williams, David III
+N00030602::Williams, Roger
+N00030650::Wilson, Frederica
+N00024809::Wilson, Joe
+N00035288::Winslow, Dan
+N00029459::Wittman, Rob
+N00002073::Wolf, Frank R
+N00031857::Womack, Steve
+N00032416::Woodall, Rob
+N00035281::Wyatt, Eric
+N00028073::Yarmuth, John A
+N00031502::Yoder, Kevin
+N00033220::Yoho, Ted
+N00001817::Young, C W Bill
+N00035509::Young, David
+N00033450::Young, Dean
+N00007999::Young, Don
+N00030670::Young, Todd
+N00035479::Yu, Eugene
+N00035292::Zachary, Jason
+
+

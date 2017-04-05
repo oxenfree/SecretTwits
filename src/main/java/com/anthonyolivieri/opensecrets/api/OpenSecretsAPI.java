@@ -2,6 +2,7 @@ package com.anthonyolivieri.opensecrets.api;
 
 import com.anthonyolivieri.opensecrets.Example;
 import com.anthonyolivieri.opensecrets.services.PropertiesService;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -16,20 +17,14 @@ import org.json.JSONObject;
 public class OpenSecretsAPI {
 
     private final String apiKey;
-
     private final StringBuilder rootURL;
-
     private final List<String> candIndCycles;
-
     private final List<String> memPFDYears;
-
     private final List<String> congressNumbers;
-
     private final PropertiesService propService;
-
     private final String userAgent;
 
-    public OpenSecretsAPI() {
+    public OpenSecretsAPI() throws FileNotFoundException {
         this.propService = new PropertiesService();
         this.apiKey = propService.getProperty("APIKey");
         this.userAgent = propService.getProperty("UserAgent");
