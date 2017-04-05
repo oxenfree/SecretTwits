@@ -1,23 +1,16 @@
 package com.anthonyolivieri.opensecrets.api;
 
-import com.anthonyolivieri.opensecrets.MoreExamples;
 import com.anthonyolivieri.opensecrets.Example;
 import com.anthonyolivieri.opensecrets.services.PropertiesService;
-import com.anthonyolivieri.opensecrets.services.PropertiesService;
-import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.stream.Stream;
 import org.apache.commons.io.IOUtils;
 import org.json.JSONObject;
 
@@ -31,7 +24,7 @@ public class OpenSecretsAPI {
     private final PropertiesService propService;
     private final String userAgent;
 
-    public OpenSecretsAPI() {
+    public OpenSecretsAPI() throws FileNotFoundException {
         this.propService = new PropertiesService();
         this.apiKey = propService.getProperty("APIKey");
         this.userAgent = propService.getProperty("UserAgent");
