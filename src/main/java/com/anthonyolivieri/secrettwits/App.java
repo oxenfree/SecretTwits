@@ -3,7 +3,6 @@ package com.anthonyolivieri.secrettwits;
 import com.anthonyolivieri.secrettwits.services.PropertiesService;
 import com.anthonyolivieri.secrettwits.services.TwitterService;
 import java.io.IOException;
-import java.util.Collections;
 import java.util.List;
 import twitter4j.Paging;
 import twitter4j.Status;
@@ -20,6 +19,7 @@ public class App {
         Paging page = new Paging(lastId);
         List<Status> mentions = twitter.getMentionsTimeline(page);
         TwitterService twits = new TwitterService(twitter);
+        System.out.println("Starting up.");
 
         for (Status status : mentions) {
             lastId = status.getId();

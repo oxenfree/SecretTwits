@@ -127,15 +127,13 @@ public class TwitterService {
 
         try {
             status.getInReplyToUserId();
-            System.out.println(status.getText());
             StatusUpdate reply = new StatusUpdate(
                     "@" + status.getUser().getScreenName()
             );
             reply.inReplyToStatusId(status.getId());
             reply.setMedia(attachable);
-            Status update = twitter.updateStatus(reply);
+            twitter.updateStatus(reply);
             repliedTo.add(status);
-            System.out.println(update.getText());
 
         } catch (TwitterException ex) {
             Logger.getLogger(TwitterService.class.getName()).log(Level.SEVERE, null, ex);
