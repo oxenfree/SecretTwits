@@ -5,7 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -18,8 +17,6 @@ public class PropertiesService {
 
     private final InputStream input;
 
-    private final OutputStream output;
-
     private final String basePath;
 
     private final String filePath;
@@ -30,12 +27,7 @@ public class PropertiesService {
         this.prop = new Properties();
         this.loader = Thread.currentThread().getContextClassLoader();
         this.input = loader.getResourceAsStream("application.properties");
-        this.output = new FileOutputStream(filePath);
-        try {
-            this.prop.load(input);
-        } catch (IOException ex) {
-            Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        loadInput();
     }
 
     /**
@@ -44,7 +36,6 @@ public class PropertiesService {
      * @return String
      */
     public String getProperty(String propertyName) {
-        storeOutput();
         return prop.getProperty(propertyName);
     }
 
@@ -53,13 +44,21 @@ public class PropertiesService {
      * @param propertyValue
      */
     public void setProperty(String propertyName, String propertyValue) {
-        prop.setProperty(propertyName, propertyValue);
+        prop.put(propertyName, propertyValue);
         storeOutput();
     }
 
-    private void storeOutput() {
+    private void loadInput() {
         try {
-            prop.store(output, null);
+            this.prop.load(input);
+        } catch (IOException ex) {
+            Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    private void storeOutput()  {
+        try {
+            this.prop.store(new FileOutputStream(filePath, false), null);
         } catch (IOException ex) {
             Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
         }
