@@ -9,18 +9,10 @@ import twitter4j.TwitterFactory;
 
 public class TwitterExample {
 
-    
-
     public static void main(String... args) throws TwitterException, InterruptedException, FileNotFoundException, IOException {
         Twitter twitter = TwitterFactory.getSingleton();
-        
         System.out.println(twitter.getScreenName());
-        
         PropertiesService prop = new PropertiesService();
-        
         System.out.println(prop.getProperty("LastId"));
-        
-        
     }
-
 }

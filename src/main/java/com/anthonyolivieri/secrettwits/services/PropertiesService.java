@@ -12,19 +12,10 @@ import java.util.logging.Logger;
 
 public class PropertiesService {
 
-    /**
-     * Properties prop
-     */
     private final Properties prop;
 
-    /**
-     * ClassLoader loader
-     */
     private final ClassLoader loader;
 
-    /**
-     * InputStream input
-     */
     private final InputStream input;
 
     private final OutputStream output;
@@ -42,7 +33,6 @@ public class PropertiesService {
         this.output = new FileOutputStream(filePath);
         try {
             this.prop.load(input);
-            
         } catch (IOException ex) {
             Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -54,7 +44,7 @@ public class PropertiesService {
      * @return String
      */
     public String getProperty(String propertyName) {
-
+        storeOutput();
         return prop.getProperty(propertyName);
     }
 
@@ -63,8 +53,12 @@ public class PropertiesService {
      * @param propertyValue
      */
     public void setProperty(String propertyName, String propertyValue) {
+        prop.setProperty(propertyName, propertyValue);
+        storeOutput();
+    }
+
+    private void storeOutput() {
         try {
-            prop.setProperty(propertyName, propertyValue);
             prop.store(output, null);
         } catch (IOException ex) {
             Logger.getLogger(PropertiesService.class.getName()).log(Level.SEVERE, null, ex);
