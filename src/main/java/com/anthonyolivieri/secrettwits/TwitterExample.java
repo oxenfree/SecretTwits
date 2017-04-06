@@ -16,6 +16,10 @@ public class TwitterExample {
         
         System.out.println(twitter.getScreenName());
         
+        PropertiesService prop = new PropertiesService();
+        
+        System.out.println(prop.getProperty("LastId"));
+        
         
     }
 
