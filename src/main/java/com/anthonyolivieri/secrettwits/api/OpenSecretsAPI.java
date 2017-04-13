@@ -1,13 +1,12 @@
 package com.anthonyolivieri.secrettwits.api;
 
 import com.anthonyolivieri.secrettwits.Example;
-import com.anthonyolivieri.secrettwits.services.PropertiesService;
+import com.anthonyolivieri.secrettwits.services.PreferencesService;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -21,17 +20,17 @@ public class OpenSecretsAPI {
     private final List<String> candIndCycles;
     private final List<String> memPFDYears;
     private final List<String> congressNumbers;
-    private final PropertiesService propService;
+    private final PreferencesService propService;
     private final String userAgent;
 
     public OpenSecretsAPI() throws FileNotFoundException {
-        this.propService = new PropertiesService();
-        this.apiKey = propService.getProperty("APIKey");
-        this.userAgent = propService.getProperty("UserAgent");
-        this.candIndCycles = Arrays.asList(propService.getProperty("CandIndCycles").split(","));
-        this.memPFDYears = Arrays.asList(propService.getProperty("MemPFDYears").split(","));
-        this.congressNumbers = Arrays.asList(propService.getProperty("CongressNumbers").split(","));
-        this.rootURL = new StringBuilder(propService.getProperty("RootURL"));
+        this.propService = new PreferencesService();
+        this.apiKey = propService.getApiKey();
+        this.userAgent = propService.getUserAgent();
+        this.candIndCycles = propService.getCandIndCycles();
+        this.memPFDYears = propService.getMemPFDYears();
+        this.congressNumbers = propService.getCongressNumbers();
+        this.rootURL = new StringBuilder(propService.getRootUrl());
         this.rootURL.append("&").append("apikey=").append(apiKey);
     }
 
