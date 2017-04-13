@@ -1,6 +1,6 @@
 package com.anthonyolivieri.secrettwits;
 
-import com.anthonyolivieri.secrettwits.services.PropertiesService;
+import com.anthonyolivieri.secrettwits.services.PreferencesService;
 import com.anthonyolivieri.secrettwits.services.TwitterService;
 import java.io.IOException;
 import java.util.List;
@@ -14,8 +14,8 @@ public class App {
 
     public static void main(String[] args) throws IOException, TwitterException {
         Twitter twitter = TwitterFactory.getSingleton();
-        PropertiesService props = new PropertiesService();
-        Long lastId = Long.parseLong(props.getProperty("LastId"));
+        PreferencesService props = new PreferencesService();
+        Long lastId = Long.parseLong(props.getLastId());
         Paging page = new Paging(lastId);
         List<Status> mentions = twitter.getMentionsTimeline(page);
         TwitterService twits = new TwitterService(twitter);
@@ -26,6 +26,7 @@ public class App {
             twits.replyWithImage(status);
         }
 
-        props.setProperty("LastId", lastId.toString());
+        props.setLastId(lastId.toString());
+        System.out.println(props.getLastId());
     }
 }
